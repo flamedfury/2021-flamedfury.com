@@ -1,0 +1,11 @@
+{% extends "base.njk" %}
+
+{% block content %}
+
+    <h1>{{ title }}</h1>
+
+    {{ content | safe }}
+
+    {% include "../_includes/partials/recently-played.njk" %}
+    
+{% endblock %}
