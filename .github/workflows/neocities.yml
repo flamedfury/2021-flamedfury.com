@@ -24,6 +24,8 @@ jobs:
           API_KEY: ${{ secrets.LASTFM_KEY }}
           USERNAME: ${{ secrets.LASTFM_USER }}
         run: |
+          sed -i "s/process.env.LASTFM_KEY/$API_KEY/" lastfm.js
+          sed -i "s/process.env.LASTFM_USER/$USERNAME/" lastfm.js
           npm i
           npm run build
           
