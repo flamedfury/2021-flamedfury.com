@@ -1,5 +1,5 @@
 const Cache = require('@11ty/eleventy-cache-assets');
-require('dotenv').config();
+require('dotenv').config({ systemvars: true });
 
 const API_KEY = process.env.LASTFM_KEY;
 const USERNAME = process.env.LASTFM_USER;
