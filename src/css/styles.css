@@ -235,6 +235,11 @@ img {
     height: auto;
 }
 
+img[src*="center"] {
+    margin: 0 auto;
+    display: block;
+}
+
 /* content flex grid stuff 
     jacked from https://www.taniarascia.com/how-to-build-a-responsive-image-gallery-with-flexbox/
 */
