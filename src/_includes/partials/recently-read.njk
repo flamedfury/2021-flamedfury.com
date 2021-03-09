@@ -1,0 +1,15 @@
+<!-- _includes/recently-read.njk -->
+{% set recentlyRead = readingco.collections[0].books | limit(9) %}
+{% if recentlyRead.length %}
+<div class="container">
+<div class="grid">
+{% for item in recentlyRead %}
+<div class="cell">
+<a href="{{ item.purchaseLinks[0]['url'] }}">
+<img src="{{ item.thumbnail }}" alt="book cover for {{ item.title }} by {{ item.authors[0]['name'] }}" class="responsive-image" height="auto" width="150px" />
+</a>
+</div>
+{% endfor %}
+</div>
+</div>
+{% endif %}

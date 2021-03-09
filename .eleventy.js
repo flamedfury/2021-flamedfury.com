@@ -4,16 +4,11 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy('src/css');
   eleventyConfig.addPassthroughCopy('src/img');
 
-  //turns of the default of creating permalinks
-  // eleventyConfig.setDynamicPermalinks(false);
-
   /* --- plugins --- */
+  eleventyConfig.addNunjucksFilter("limit", (arr, limit) => arr.slice(0, limit));
 
   // navigation
   eleventyConfig.addPlugin( require('@11ty/eleventy-navigation') );
-
-  // /* --- shortcodes --- */
-  // config.addShortcode('content', require('./lib/shortcodes/content.js'));
 
   return {
       passthroughFileCopy: true,
