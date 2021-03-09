@@ -6,3 +6,6 @@ public
 
 #secrets
 .env
+
+# api cache things
+.cache
