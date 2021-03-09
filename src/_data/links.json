@@ -1,16 +1,41 @@
 {
-    "items": [
-      {
-        "author": "sadness",
-        "url": "https://sadgrl.online/",
-        "siteName": "a cyber self portrait",
-        "siteDescription": "go read sadgrls manifesto and new old web pages. a fun site to explore and get lost in."
-      },
-      {
-        "author": "teddybear-halo",
-        "url": "https://teddybear-halo.neocities.org/",
-        "siteName": "step inside the dream",
-        "siteDescription": "go read through teddies memoirs and check out her shrines of treasures from years gone by."
-      }
-    ]
-  }
+  "items": [
+    {
+      "author": "sadness",
+      "url": "https://sadgrl.online/",
+      "siteName": "a cyber self portrait",
+      "siteDescription": "go read sadgrls manifesto and new old web pages. a fun site to explore and get lost in."
+    },
+    {
+      "author": "teddybear-halo",
+      "url": "https://teddybear-halo.neocities.org/",
+      "siteName": "step inside the dream",
+      "siteDescription": "go read through teddies memoirs and check out her shrines of treasures from years gone by."
+    }
+  ],
+  "oldWeb": [
+    {
+      "author": "victoriadrake",
+      "url": "https://victoria.dev/blog/make-your-own-independent-website/",
+      "archiveLink": "https://web.archive.org/web/20210207190640/https://victoria.dev/blog/make-your-own-independent-website/",
+      "siteName": "make your own independent website",
+      "siteDescription": "victoria explores the joys of creating your own personal website."
+    }
+  ],
+  "interestingArticles": [
+    {
+      "author": "Pop Punk & Linguistics",
+      "url": "https://www.atlasobscura.com/articles/i-made-a-linguistics-professor-listen-to-a-blink-182-song-and-analyze-the-accent/",
+      "archiveLink": "https://web.archive.org/",
+      "siteName": "Pop Punk & Linguistics",
+      "siteDescription": "a  linguistics professors analysis of the american pop punk accent. great read."
+    },
+    {
+      "author": "The Rise & Fall of Internet Art Communities",
+      "url": "https://www.artsy.net/article/artsy-editorial-rise-fall-internet-art-communities/",
+      "archiveLink": "https://web.archive.org/web/20201101002236/https://www.artsy.net/article/artsy-editorial-rise-fall-internet-art-communities/",
+      "siteName": "The Rise & Fall of Internet Art Communities",
+      "siteDescription": "a deep dive into the rise and fall of art communities of the early web."
+    }
+  ]
+}
