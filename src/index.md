@@ -14,3 +14,5 @@ my homepage is currently under construction. i spend too much time coding and co
 
 <!-- ## notes
 {% include "notelist.njk" %} -->
+
+{% include "partials/webrings.njk" %}
