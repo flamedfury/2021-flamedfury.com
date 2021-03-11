@@ -20,7 +20,7 @@
 
 <table>
 <tbody>
-{% for item in links.oldWeb %}
+{% for item in links.ownWeb %}
 {% if item.siteName %}
 <tr>
 <td><a href="{{ item.url }}">{{ item.siteName }}</a></td>
@@ -41,6 +41,26 @@
 <table>
 <tbody>
 {% for item in links.interestingArticles %}
+{% if item.siteName %}
+<tr>
+<td><a href="{{ item.url }}">{{ item.siteName }}</a></td>
+<td>{{ item.siteDescription }}</td>
+</tr>
+{% else %}
+<tr>
+<td><a href="{{ item.url }}">{{ item.author }}</a></td>
+<td>{{ item.siteDescription }}</td>
+</tr>
+{% endif %}
+{% endfor %}
+</tbody>
+</table>
+
+<img src="img/tkts-divider.png" />
+
+<table>
+<tbody>
+{% for item in links.digitalGardens %}
 {% if item.siteName %}
 <tr>
 <td><a href="{{ item.url }}">{{ item.siteName }}</a></td>

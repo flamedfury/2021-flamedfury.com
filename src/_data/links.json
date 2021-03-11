@@ -13,7 +13,7 @@
       "siteDescription": "go read through teddies memoirs and check out her shrines of treasures from years gone by."
     }
   ],
-  "oldWeb": [
+  "ownWeb": [
     {
       "author": "victoriadrake",
       "url": "https://victoria.dev/blog/make-your-own-independent-website/",
@@ -36,6 +36,43 @@
       "archiveLink": "https://web.archive.org/web/20201101002236/https://www.artsy.net/article/artsy-editorial-rise-fall-internet-art-communities/",
       "siteName": "The Rise & Fall of Internet Art Communities",
       "siteDescription": "a deep dive into the rise and fall of art communities of the early web."
+    }
+  ],
+  "digitalGardens": [
+    {
+      "author": "Tanya Basu",
+      "url": "https://www.technologyreview.com/2020/09/03/1007716/digital-gardens-let-you-cultivate-your-own-little-bit-of-the-internet/",
+      "archiveLink": "https://web.archive.org/",
+      "siteName": "Digital gardens let you cultivate your own little bit of the internet",
+      "siteDescription": "a look into people who are creating and cultivating their own digital gardens online."
+    },
+    {
+      "author": "Joel Hooks",
+      "url": "https://joelhooks.com/digital-garden",
+      "archiveLink": "https://web.archive.org/web/20210126040328/https://joelhooks.com/digital-garden",
+      "siteName": "my blog is a digital garden, not a blog",
+      "siteDescription": "joel takes us through how his blog is not in fact a blog, but a digital garden. it's different. really."
+    },
+    {
+      "author": "Maggie Appleton",
+      "url": "https://github.com/MaggieAppleton/digital-gardeners",
+      "archiveLink": "https://web.archive.org/web/20210309184600/https://github.com/MaggieAppleton/digital-gardeners",
+      "siteName": "digital gardening",
+      "siteDescription": "maggie has put together a great collection of gardeners who are publicly tending theri digital notes on the interwebs. also has a great number of digital garden resources"
+    },
+    {
+      "author": "Tom Critchlow",
+      "url": "https://tomcritchlow.com/blogchains/digital-gardens/",
+      "archiveLink": "https://web.archive.org/web/20201129110029/https://tomcritchlow.com/blogchains/digital-gardens/",
+      "siteName": "digital gardens",
+      "siteDescription": "tom takes us through the his thoughts and process for building personal wikis to tend to personal knowledge"
+    },
+    {
+      "author": "Chris Aldrich",
+      "url": "https://boffosocko.com/tag/wikis/",
+      "archiveLink": "https://web.archive.org/web/20210118071628/https://boffosocko.com/tag/wikis/",
+      "siteName": "boffo socko wikis",
+      "siteDescription":"list of all wiki related posts, have not explored all of them yet."
     }
   ]
 }
