@@ -72,7 +72,23 @@
       "url": "https://boffosocko.com/tag/wikis/",
       "archiveLink": "https://web.archive.org/web/20210118071628/https://boffosocko.com/tag/wikis/",
       "siteName": "boffo socko wikis",
-      "siteDescription":"list of all wiki related posts, have not explored all of them yet."
+      "siteDescription": "list of all wiki related posts, have not explored all of them yet."
+    }
+  ],
+  "linkDirectories": [
+    {
+      "author": "kicks",
+      "url": "https://href.cool/",
+      "archiveLink": "",
+      "siteName": "href.cool",
+      "siteDescription": "the final heartbeats of our beloved www. a hand curated list of links in the style of old yahoo. lots of interesting homepages to get lost in."
+    },
+    {
+      "author": "",
+      "url": "https://smoothsailing.asclaria.org/",
+      "archiveLink": "",
+      "siteName": "smooth sailing",
+      "siteDescription": "a web directory and listing for all kinds of websites"
     }
   ]
 }
