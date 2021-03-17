@@ -1,5 +1,5 @@
 ---
-title: links
+title: 🔗 links
 description: my collection of links
 layout: base.njk
 eleventyNavigation:

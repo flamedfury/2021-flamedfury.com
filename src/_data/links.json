@@ -20,6 +20,13 @@
       "archiveLink": "https://web.archive.org/web/20210207190640/https://victoria.dev/blog/make-your-own-independent-website/",
       "siteName": "make your own independent website",
       "siteDescription": "victoria explores the joys of creating your own personal website."
+    },
+    {
+      "author": "",
+      "url": "https://internethomesteading.com/",
+      "archiveLink": "",
+      "siteName": "internet homesteading",
+      "siteDescription": "this page is part of an online course run through the hyperlink acadamy. displayed here are the results of the participants lovingly hand crafted projects from the course. some interesting sites to explore."
     }
   ],
   "interestingArticles": [
@@ -96,6 +103,107 @@
       "archiveLink": "",
       "siteName": "weird wide webring",
       "siteDescription": "not quite a link directory, however it is a great little collection of interesting links to mostly personal homepages."
+    },
+    {
+      "author": "",
+      "url": "https://archiveofourown.org/",
+      "archiveLink": "",
+      "siteName": "archive of our own",
+      "siteDescription": "an archive featuring a huge collection of fandom type content. i don't even know where to begin with this one."
+    },
+    {
+      "author": "",
+      "url": "https://webring.xxiivv.com/",
+      "archiveLink": "",
+      "siteName": "xxiivv webring",
+      "siteDescription": "a webring collecting hand-crafted wikis and portfolios. designer, developer focused. 157 listens with some gems in there."
+    },
+    {
+      "author": "",
+      "url": "https://webring.xxiivv.com/",
+      "archiveLink": "",
+      "siteName": "webring",
+      "siteDescription": "a webring collecting hand-crafted wikis and portfolios. designer, developer focused. 157 listings with some gems in there."
+    },
+    {
+      "author": "john december",
+      "url": "https://www.december.com/",
+      "archiveLink": "",
+      "siteName": "december communications, inc",
+      "siteDescription": "a rather large, long running, website. includes a hand curated (i think) web directory. wow. so many links to all corners of the world wide web. let me know if you find anything awesome in there."
+    },
+    {
+      "author": "",
+      "url": "https://gossipsweb.net/",
+      "archiveLink": "",
+      "siteName": "gossip's web",
+      "siteDescription": "a decent directory of handmade webpages. some really interesting and clever pages in there."
+    },
+    {
+      "author": "waylon531",
+      "url": "https://terra.finzdani.net/",
+      "archiveLink": "",
+      "siteName": "terra",
+      "siteDescription": "a decently sized directory with like 98 categories? so many pages to explore!"
+    }
+  ],
+  "webLogs": [
+    {
+      "author": "",
+      "url": "",
+      "archiveLink": "",
+      "siteName": "",
+      "siteDescription": ""
+    },
+    {
+      "author": "laura kalbag",
+      "url": "https://laurakalbag.com/",
+      "archiveLink": "",
+      "siteName": "laura kalbag",
+      "siteDescription": "laura is a designer who has published a book covering accessibility. she is one part of the small tech foundation. her blog is full of some great interesting stuff."
+    },
+    {
+      "author": "patrick collison",
+      "url": "https://patrickcollison.com/",
+      "archiveLink": "",
+      "siteName": "patrick collison",
+      "siteDescription": "really simple blog with an interesting range topics making up the content. patrick is very thoughtful. not your typical dev blog..."
+    },
+    {
+      "author": "sirodoht",
+      "url": "https://sirodoht.com/",
+      "archiveLink": "",
+      "siteName": "sirodoht blog",
+      "siteDescription": "a few interesting articles, the most interesting to me was the one on ideal blog platforms and the other on the mataroa webring. materoa seems to be a simple blogging engine the author has created."
+    },
+    {
+      "author": "scott hanselman",
+      "url": "https://hanselman.com/",
+      "archiveLink": "",
+      "siteName": "scott hanselman",
+      "siteDescription": "looks like an old blogger template. lots of great articles on various topics. i enjoy their yearly developer and power user tool lists."
+    },
+    {
+      "author": "elliot",
+      "url": "https://elliott.computer/",
+      "archiveLink": "",
+      "siteName": "elliot's computer",
+      "siteDescription": "a really interesting wild take on how to hand craft your homepage!"
+    },
+    {
+      "author": "dima",
+      "url": "https://kabardinovd.com",
+      "archiveLink": "",
+      "siteName": "static/blog",
+      "siteDescription": "a few posts on various developer things. my fav was the 10 things i've learned while building this website, touches on some 11ty topics"
+    },
+    {
+      "author": "tom hackshaw",
+      "url": "https://tom.so",
+      "archiveLink": "",
+      "siteName": "tom hackshaw",
+      "siteDescription": "not sure if i should categorise this one as a blog as it's so much more. a manifesto (which is awesome by the way), a living wiki, a bookshelf (yay) as well as a blog."
     }
   ]
 }
+
