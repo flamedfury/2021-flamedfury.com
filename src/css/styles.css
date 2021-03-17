@@ -5,7 +5,7 @@
 
     /* Set sans-serif & mono fonts */
     --serif-font: Georgia, "Times New Roman", Times, serif; 
-    --sans-font: -apple-system, BlinkMacSystemFont, "Avenir Next", Avenir, "Nimbus Sans L", Roboto, Noto, "Segoe UI", Arial, Helvetica, "Helvetica Neue", sans-serif;
+    --sans-font: "Open Sans", -apple-system, BlinkMacSystemFont, "Avenir Next", Avenir, "Nimbus Sans L", Roboto, Noto, "Segoe UI", Arial, Helvetica, "Helvetica Neue", sans-serif;
     --mono-font: Consolas, Menlo, Monaco, "Andale Mono", "Ubuntu Mono", monospace;
   
     /* Body font size. By default, effectively 18.4px, based on 16px as 'root em' */
@@ -48,6 +48,7 @@ body {
 
 /* Format headers */
 h1 {
+    font-family: var(--sans-font);
     font-size: calc(var(--base-fontsize) * var(--header-scale) * var(--header-scale) * var(--header-scale) * var(--header-scale));
     margin-top: calc(var(--line-height) * 1.5rem);
 }
@@ -223,6 +224,10 @@ nav a {
 main, footer {
     padding: 14px 16px;
     background: var(--accent-bg);
+}
+
+nav, main, footer {
+    border: 2px dashed var(--accent-light);
 }
 
 footer p {
