@@ -5,7 +5,6 @@ layout: base
 eleventyNavigation:
     key: home
     order: 100
-templateEngineOverride: njk,md
 ---
 
 hi 👋, i'm [fLaMEd](about.html) 🔥 and this is my homepage, a collection of stuff that i like.

@@ -6,7 +6,6 @@ eleventyNavigation:
     key: recordshelf
     order: 200
 permalink:  "{{ page.filePathStem }}.html"
-templateEngineOverride: njk,md
 ---
 
 music has always been a huge part of my life.

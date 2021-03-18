@@ -6,7 +6,6 @@ eleventyNavigation:
     key: plants
     order: 400
 permalink:  "{{ page.filePathStem }}.html"
-templateEngineOverride: njk,md
 ---
 
 These are the house plants that I take care of.

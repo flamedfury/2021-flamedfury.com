@@ -6,7 +6,6 @@ eleventyNavigation:
     key: bookshelf
     order: 300
 permalink:  "{{ page.filePathStem }}.html"
-templateEngineOverride: njk,md
 ---
 
 i've been an avid reader since i was young.

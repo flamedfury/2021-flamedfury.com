@@ -46,8 +46,9 @@ body {
 }
 
 /* Format headers */
+h1, h2, h3, h4, h5, h6 { font-family: var(--sans-font); }
+
 h1 {
-    font-family: var(--sans-font);
     font-size: calc(var(--base-fontsize) * var(--header-scale) * var(--header-scale) * var(--header-scale) * var(--header-scale));
     margin-top: calc(var(--line-height) * 1.5rem);
 }
