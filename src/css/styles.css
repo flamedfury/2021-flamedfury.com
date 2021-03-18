@@ -1,6 +1,4 @@
-/* jacked from https://github.com/kevquirk/simple.css/blob/main/simple.css */
-
-/* Set the global variables for everything. Change these to use your own fonts/colours. */
+/* Set the global variables for everything. */
 :root {
 
     /* Set sans-serif & mono fonts */
@@ -32,6 +30,7 @@
     --disabled: #efefef;
 }
 
+/* jacked from https://github.com/kevquirk/simple.css/blob/main/simple.css */
 html {
     /* Set the font globally */
     font-family: var(--serif-font);
@@ -169,11 +168,16 @@ html {
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
     box-sizing: border-box;
-  }
-  *, *:before, *:after {
+}
+
+*, *:before, *:after {
     -webkit-box-sizing: inherit;
     -moz-box-sizing: inherit;
     box-sizing: inherit;
+}
+
+body {
+    background-image: url(../img/camo-bg.png);
 }
 
 /* hypersponsive */
