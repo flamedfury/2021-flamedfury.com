@@ -5,4 +5,4 @@ layout: base.njk
 permalink:  "{{ page.filePathStem }}.html"
 ---
 
-![404 page not found](img/404error.jpg#center)
+![404 page not found](../img/404error.jpg#center)
