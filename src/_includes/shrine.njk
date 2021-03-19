@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  {% include "../_includes/partials/head.njk" %}
+  {% if css %}
+    <style>
+      body { background-image: url({{ background }}); }
+    </style>
+  {% endif %}
+</head>
+
+<body>
+
+  <header>
+    <a href="/"><img src="{% if header %}{{ header }}{% else %}/img/header.png{% endif %}" width="1000" height="350" alt="flamedfury"></a>
+  </header>
+
+  <!--]	main [-->
+  <main>
+    {% block content %}
+    <!--]	hypertext content [-->
+    
+    <h1>{{ title }}</h1>
+
+    {{ content | safe }}
+
+    <!--]	/hypertext content [-->
+    {% endblock %}
+  </main>
+  <!--] /main [-->
+
+  <!--] footer [-->
+  <footer>
+    {% include "../_includes/partials/footer.njk" %}
+  </footer>
+
+
+</body>
+</html>
