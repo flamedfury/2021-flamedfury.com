@@ -15,6 +15,8 @@ this homepage is being constructed in public, it is constantly under constructio
 
 i chose [neocities](https://neocities.org) as my homepage host to step away from the corporate web and to not be surrounded by likes, shares, claps, stars, retweets, or whatevers. 
 
+i love the internet, but not all things about the internet, you can read more over on my [about page](about.html).
+
 <!-- ## notes
 {% include "notelist.njk" %} -->
 
