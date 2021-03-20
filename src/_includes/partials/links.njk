@@ -2,15 +2,15 @@
 
 <table>
 <tbody>
-{% for item in links.items %}
+{% for item in links.neofriends %}
 {% if item.siteName %}
 <tr>
-<td><a href="{{ item.url }}">{{ item.siteName }}</a></td>
+<td><a href="{{ item.url }}">{{ item.owner }}</a></td>
 <td>{{ item.siteDescription }}</td>
 </tr>
 {% else %}
 <tr>
-<td><a href="{{ item.url }}">{{ item.author }}</a></td>
+<td><a href="{{ item.url }}">{{ item.siteName }}</a></td>
 <td>{{ item.siteDescription }}</td>
 </tr>
 {% endif %}

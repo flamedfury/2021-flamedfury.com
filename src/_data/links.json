@@ -1,16 +1,34 @@
 {
-  "items": [
+  "neofriends": [
     {
-      "author": "sadness",
+      "owner": "sadness",
       "url": "https://sadgrl.online/",
       "siteName": "a cyber self portrait",
-      "siteDescription": "go read sadgrls manifesto and new old web pages. a fun site to explore and get lost in."
+      "siteDescription": "a huge collection of my favourite is reading through sadgrls manifesto and new old web pages. sadgrl has a bunch of fun projects on the go so be sure to check them out. nessa fun site to explore and get lost in."
     },
     {
-      "author": "teddybear-halo",
+      "owner": "teddie",
       "url": "https://teddybear-halo.neocities.org/",
       "siteName": "step inside the dream",
-      "siteDescription": "go read through teddies memoirs and check out her shrines of treasures from years gone by."
+      "siteDescription": "a whimsical collection of shrines, dreams and other nostalgic stuff. my favourite is to read the meomoirs which recount memories of a web of yesterday."
+    },
+    {
+      "owner": "cinderpeach",
+      "url": "https://blissnet.neocities.org",
+      "siteName": "bliss-net",
+      "siteDescription": "a wonderfully crafted homepage full of flashing glittery graphics. "
+    },
+    {
+      "owner": "eris",
+      "url": "https://erisfenixgaia.neocities.org",
+      "siteName": "universal materialist dialect",
+      "siteDescription": "complete with an esoteric design, a homepage full of poems, original graphics and essasy."
+    },
+    {
+      "owner": "lulu",
+      "url": "https://magickalpoptart.neocities.org/",
+      "siteName": "queen of cups",
+      "siteDescription": "one of my favourite colour schemes in action. click to find out about tarrot reading, and even book in an online tarrot reading! "
     }
   ],
   "ownWeb": [
@@ -43,6 +61,13 @@
       "archiveLink": "https://web.archive.org/web/20201101002236/https://www.artsy.net/article/artsy-editorial-rise-fall-internet-art-communities/",
       "siteName": "The Rise & Fall of Internet Art Communities",
       "siteDescription": "a deep dive into the rise and fall of art communities of the early web."
+    },
+    {
+      "author": "david siegel",
+      "url": "https://www.xml.com/pub/a/w3j/s1.people.html",
+      "archiveLink": "https://web.archive.org/web/20010330013456/https://www.xml.com/pub/a/w3j/s1.people.html",
+      "siteName": "the web is ruined and i ruined it",
+      "siteDescription": "a very deep dive into a time in the 90s where the web changed for better or worse. read it and decided for yourself."
     }
   ],
   "digitalGardens": [
@@ -80,6 +105,20 @@
       "archiveLink": "https://web.archive.org/web/20210118071628/https://boffosocko.com/tag/wikis/",
       "siteName": "boffo socko wikis",
       "siteDescription": "list of all wiki related posts, have not explored all of them yet."
+    },
+    {
+      "author": "rosie campbell",
+      "url": "https://publish.obsidian.md/rosie/Welcome",
+      "archiveLink": "",
+      "siteName": "rosie campbell digital garden",
+      "siteDescription": "rosie uses obsidian publish to create her digital garden. public notes and knowledge base featuring articles, quotes, advice and recipes."
+    },
+    {
+      "author": "",
+      "url": "",
+      "archiveLink": "",
+      "siteName": "",
+      "siteDescription": ""
     }
   ],
   "linkDirectories": [
@@ -203,6 +242,20 @@
       "archiveLink": "",
       "siteName": "tom hackshaw",
       "siteDescription": "not sure if i should categorise this one as a blog as it's so much more. a manifesto (which is awesome by the way), a living wiki, a bookshelf (yay) as well as a blog."
+    },
+    {
+      "author":"dennis mai",
+      "url": "https://www.dennismai.dev/",
+      "archiveLink": "",
+      "siteName": "dennis mai",
+      "siteDescription": "a nice looking website where dennis shares a bunch of his projects, webrings and a selection of articles."
+    },
+    {
+      "author": "paul graham",
+      "url": "http://paulgraham.com/",
+      "archiveLink": "",
+      "siteName": "paul graham",
+      "siteDescription": "simple looking website with a heap of content. some really interesting essays amongst a bunch of other stuff."
     }
   ]
 }
