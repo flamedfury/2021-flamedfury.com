@@ -1,3 +1,5 @@
+const { exec } = require('child_process');
+
 module.exports = function(eleventyConfig) {
 
   eleventyConfig.addWatchTarget("./src/css/");
@@ -9,6 +11,16 @@ module.exports = function(eleventyConfig) {
 
   // navigation
   eleventyConfig.addPlugin( require('@11ty/eleventy-navigation') );
+
+
+  eleventyConfig.on('afterBuild', () => {
+    exec('npx prettier "./public/**/*.{html,js,css}" --write', function(err, stdout, stderr) {
+      if (err || stdout || stderr) console.log("eleventy-plugin-prettier logs:")
+      err && console.log(err);
+      stdout && console.log(stdout);
+      stderr && console.log(stderr);
+    });
+  });
 
   return {
       passthroughFileCopy: true,
@@ -22,4 +34,6 @@ module.exports = function(eleventyConfig) {
           output: "public"
       }
     };
+
+
 };
