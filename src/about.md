@@ -1,5 +1,5 @@
 ---
-title: about fLaMEd
+title: about fLaMEd 🔥
 description: who is fLaMEd?
 layout: base
 eleventyNavigation:

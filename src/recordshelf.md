@@ -1,5 +1,5 @@
 ---
-title: 🎧 recordshelf
+title: recordshelf 🎧
 description: my collection of music
 layout: base.njk
 eleventyNavigation:

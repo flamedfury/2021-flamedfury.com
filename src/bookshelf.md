@@ -1,5 +1,5 @@
 ---
-title: 📚 bookshelf
+title: bookshelf 📚
 description: my collection of books
 layout: base.njk
 eleventyNavigation:

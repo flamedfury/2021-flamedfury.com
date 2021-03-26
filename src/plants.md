@@ -1,10 +1,10 @@
 ---
-title: 🍃 my house plants
+title: my house plants 🍃
 description: my collection of plants
 layout: base.njk
 eleventyNavigation:
     key: plants
-    order: 400
+    order: 600
 permalink:  "{{ page.filePathStem }}.html"
 ---
 
