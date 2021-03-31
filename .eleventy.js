@@ -5,6 +5,7 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addWatchTarget("./src/css/");
   eleventyConfig.addPassthroughCopy('src/css');
   eleventyConfig.addPassthroughCopy('src/img');
+  eleventyConfig.addPassthroughCopy('src/js');
 
   /* --- plugins --- */
   eleventyConfig.addNunjucksFilter("limit", (arr, limit) => arr.slice(0, limit));

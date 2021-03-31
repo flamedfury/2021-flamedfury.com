@@ -7,6 +7,9 @@
       body { background-image: url({{ background }}); }
     </style>
   {% endif %}
+  {% if mixtape %}
+    <link rel="stylesheet" href="../css/mixtape.css">
+  {% endif %}
 </head>
 
 <body>
@@ -34,6 +37,9 @@
     {% include "../_includes/partials/footer.njk" %}
   </footer>
 
-
+  {% if mixtape %}
+    <script src="../js/jquery.js"></script>
+    <script src="../js/mixtape.js"></script>
+  {% endif %}
 </body>
 </html>

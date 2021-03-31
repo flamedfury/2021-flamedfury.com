@@ -1,0 +1,147 @@
+.clearfix {
+    clear: both;
+}
+
+#mixtape {
+    width: 330px;
+    min-height: 400px;
+    background: #333;
+    overflow: auto;
+    margin: 60px auto;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    border-radius: 10px;
+    border: #ff4a73 dashed 2px;
+}
+
+#mixtape-cover {
+    position: relative;
+    overflow: hidden;
+    height: 330px;
+    margin-bottom: 16px;
+}
+
+#mixtape-info {
+    font-size: .9rem;
+    text-align: center;
+    padding-bottom: 16px;
+}
+
+#mixtape-info .artist {
+    font-weight: bold;
+}
+
+.cover {
+    width: 100%;
+    z-index: 1;
+}
+
+input#volume {
+    width: 95%;
+    margin-left: 2%;
+    -webkit-appearance: none !important;
+    background: #ff4a73;
+    height: 1px;
+    margin-bottom: 20px;
+}
+input#volume::-webkit-slider-thumb {
+    -webkit-appearance: none !important;
+    background: url('../img/mixtape/knob.png') no-repeat;
+    height: 12px;
+    width: 12px;
+}
+
+#mixtape-buttons {
+    width: 90%;
+    display: block;
+    margin: 15px auto 15px 23px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+button#play {
+    width: 70px;
+    height: 70px;
+    background: url('../img/mixtape/play.svg') no-repeat;
+    margin: 10px auto;
+    border: none;
+}
+
+button#pause {
+    width: 70px;
+    height: 70px;
+    background: url('../img/mixtape/pause.svg') no-repeat;
+    margin: 10px auto;
+    border: none;
+}
+
+button#prev {
+    width: 70px;
+    height: 70px;
+    background: url('../img/mixtape/prev.svg') no-repeat;
+    margin: 10px auto;
+    border: none;
+}
+
+button#next {
+    width: 70px;
+    height: 70px;
+    background: url('../img/mixtape/next.svg') no-repeat;
+    margin: 10px auto;
+    border: none;
+}
+
+#playlist {
+    list-style-type: none;
+    padding: 10px;
+}
+
+#playlist li {
+    cursor: pointer;
+    font-size: .75rem;
+    margin: 5px;
+}
+
+#playlist li.active {
+    font-weight: bold;
+    padding: 3px;
+    color: #b0b0b0;
+}
+
+#tracker {
+    position: relative;
+    width: 100%;
+    overflow: hidden;
+}
+
+#progressbar {
+    width: 80%;
+    margin-left: 2%;
+    margin-bottom: 20px;
+    margin-top: 9px;
+    height: 10px;
+    background-color: #d8dae1;
+    border-radius: 2px;
+    float: left;
+}
+
+#progress {
+    background: url('../img/mixtape/progress.png') no-repeat;
+    height: 10px;
+    display: inline-block;
+    position: absolute;
+    top: 10px;
+    left: 7px;
+}
+
+#duration {
+    font-size: .75rem;
+    position: absolute;
+    top: 0px;
+    right: 10px;
+    padding: 4px 8px;
+    background: #d8dae1;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
+}

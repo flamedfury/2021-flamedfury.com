@@ -6,6 +6,7 @@ layout: shrine
 permalink: "{{ page.filePathStem }}.html"
 css: true
 background: '/img/miley/hearts-bg.png'
+mixtape: true
 ---
 
 welcome to **nothing breaks like a heart**. a shrine dedicated to the talented singer miley cyrus. miley is best known for her music, twerking, smoking pot and having a foul mouth.
@@ -35,6 +36,12 @@ in november 2020 miley released the best rock record of the decade, plastic hear
 - Miley Cyrus & Her Dead Petz (2015)
 - Younger Now (2017)
 - Plastic Hearts (2020)
+
+## mixtape
+
+check out my miley cyrus mixtape, it's full of my favourite tracks.
+
+{% include "partials/mixtape.njk" %}
 
 ## links
 
