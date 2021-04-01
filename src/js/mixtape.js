@@ -109,7 +109,7 @@ function showDuration(){
 		$('#duration').html(m + ':' + s);	
 		var value = 0;
 		if (audio.currentTime > 0) {
-			value = Math.floor((100 / audio.duration) * audio.currentTime);
+			value = Math.floor((100 / audio.duration) * audio.currentTime * 0.8);
 		}
 		$('#progress').css('width',value+'%');
 		if( audio.currentTime >= audio.duration) $('#next').trigger('click');
