@@ -11,7 +11,7 @@ these are the unedited notes of my earliest memories of getting online way back 
 
 #### 1995
 
-in 1995 we got our first pentium pc at home. this was shortly after the world wide launch of [windows 95](https://www.youtube.com/watch?v=W9Jn3GIwgCM). we set the pc up one friday afternoon and that was that. we did not have the internet at home yet, and we didn't have any games installed except for those that came with windows 95.
+in 1995 we got our first pentium pc at home. this was shortly after the world wide launch of [windows 95](https://invidious.xyz/watch?v=W9Jn3GIwgCM). we set the pc up one friday afternoon and that was that. we did not have the internet at home yet, and we didn't have any games installed except for those that came with windows 95.
 
 i stayed up the entire night that night, clicking through every directory, program and menu item i could. i soon had a very good idea of what was what and spawned my interest in computers that would continue for the rest of my life. 
 
