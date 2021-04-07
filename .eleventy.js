@@ -1,4 +1,5 @@
 const { exec } = require('child_process');
+const syntaxHighlight = require("@11ty/eleventy-plugin-syntaxhighlight");
 
 module.exports = function(eleventyConfig) {
 
@@ -13,6 +14,8 @@ module.exports = function(eleventyConfig) {
   // navigation
   eleventyConfig.addPlugin( require('@11ty/eleventy-navigation') );
 
+  // syntax highlighting
+  eleventyConfig.addPlugin(syntaxHighlight);
 
   eleventyConfig.on('afterBuild', () => {
     exec('npx prettier "./public/**/*.{html,js,css}" --write', function(err, stdout, stderr) {

@@ -1,22 +1,36 @@
-{% include "../_includes/partials/htmlhead.njk" %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  {% include "../_includes/partials/head.njk" %}
+</head>
 
-<header>
+<body>
 
-    <a href="/"><img src="/img/header.png" width="1000" height="350" alt="flamedfury"></a>
+  <header>
+    {% include "../_includes/partials/header.njk" %}
+  </header>
 
-    <nav>
-        {{ collections.all | eleventyNavigation | eleventyNavigationToHtml | safe }}
-    </nav>
-</header>
-
-<main>
-{% block content %}
-
+  <!--]	main [-->
+  <main>
+    {% block content %}
+    <!--]	hypertext content [-->
+    
     <h1>{{ title }}</h1>
 
     {{ content | safe }}
-    
-{% endblock %}
-</main>
 
-{% include "../_includes/partials/htmlfoot.njk" %}
+    <!--]	/hypertext content [-->
+    {% endblock %}
+
+    {% include "../_includes/backlinks.njk" %}
+  </main>
+  <!--] /main [-->
+
+  <!--] footer [-->
+  <footer>
+    {% include "../_includes/partials/footer.njk" %}
+  </footer>
+
+
+</body>
+</html>

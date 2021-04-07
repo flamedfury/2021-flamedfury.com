@@ -15,9 +15,24 @@ this homepage is being constructed in public, it is constantly under constructio
 
 i chose [neocities](https://neocities.org) as my homepage host to step away from the corporate web and to not be surrounded by likes, shares, claps, stars, retweets, or whatevers. 
 
-i love the internet, but not all things about the internet, you can read more over on my [about page](about.html).
+i love the internet, but not all things about the internet, you can read more over on my [about page](about.html). if you want to dive deeper, check out [my memoirs](memoirs.html) which detail my earliet memories of getting online and surfing the web.
 
-<!-- ## notes
-{% include "notelist.njk" %} -->
+#### surf the web
+
+the true spirit of the web is hyperlinking to all of the interesting homepages and websites you come across.
+
+you can link to my homepage using my 88x31 button, this was used for flamedfury.com back in the year 2000!
+
+![flamedfury 88x31 link button](../img/fury.gif#center "visit flamedfury now!")
+
+``` html
+<a href="https://flamedfury.com/">
+    <img src="https://flamedfury.com/img/fury.gif" alt="visit flamedfury now!" />
+</a>
+```
+
+*** 
+
+webrings were a fun part of the web back in the 90s and 2000s. here are a few that i've recently joined, take the time to surf around them.
 
 {% include "partials/webrings.njk" %}

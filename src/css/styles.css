@@ -118,12 +118,6 @@ table caption {
 
 /* Misc body elements */
 
-hr {
-	color: var(--border);
-    border-top: 1px;
-	margin: 1rem auto;
-}
-
 mark {
     padding: 2px 5px;
     border-radius: 4px;
@@ -250,6 +244,11 @@ img[src*="center"] {
     display: block;
 }
 
+hr {
+    border: 1px dashed var(--accent-light);
+    margin-top: 32px;
+}
+
 .divider {
     padding: 32px 0 0 0;
 }
@@ -300,4 +299,127 @@ img[src*="center"] {
     .cell {
         width: calc(33.3333% - 2rem);
     }
+}
+
+/* syntax highlighting */
+
+/**
+ * okaidia theme for JavaScript, CSS and HTML
+ * Loosely based on Monokai textmate theme by http://www.monokai.nl/
+ * @author ocodia
+ */
+
+ code[class*="language-"],
+ pre[class*="language-"] {
+     color: #f8f8f2;
+     background: none;
+     text-shadow: 0 1px rgba(0, 0, 0, 0.3);
+     font-family: Consolas, Monaco, 'Andale Mono', 'Ubuntu Mono', monospace;
+     font-size: 0.75rem;
+     text-align: left;
+     white-space: pre;
+     word-spacing: normal;
+     word-break: normal;
+     word-wrap: normal;
+     line-height: 1.5;
+     max-width: 70%;
+ 
+     -moz-tab-size: 4;
+     -o-tab-size: 4;
+     tab-size: 4;
+ 
+     -webkit-hyphens: none;
+     -moz-hyphens: none;
+     -ms-hyphens: none;
+     hyphens: none;
+ }
+ 
+ /* Code blocks */
+ pre[class*="language-"] {
+     padding: 1em;
+     margin: 0px auto;
+     overflow: auto;
+     border-radius: 0.3em;
+     border: 1px dashed var(--accent-light);
+ }
+ 
+ /* Inline code */
+ :not(pre) > code[class*="language-"] {
+     padding: .1em;
+     border-radius: .3em;
+     white-space: normal;
+ }
+
+.token.comment,
+.token.prolog,
+.token.doctype,
+.token.cdata {
+	color: slategray;
+}
+
+.token.punctuation {
+	color: #d25252;
+}
+
+.token.namespace {
+	opacity: .7;
+}
+
+.token.property,
+.token.tag,
+.token.constant,
+.token.symbol,
+.token.deleted {
+	color: #61afef;
+}
+
+.token.boolean,
+.token.number {
+	color: #c678dd;
+}
+
+.token.selector,
+.token.attr-name,
+.token.string,
+.token.char,
+.token.builtin,
+.token.inserted {
+	color: #61afef;
+}
+
+.token.operator,
+.token.entity,
+.token.url,
+.language-css .token.string,
+.style .token.string,
+.token.variable {
+	color: #abb2bf;
+}
+
+.token.atrule,
+.token.attr-value,
+.token.function,
+.token.class-name {
+	color: #c678dd;
+}
+
+.token.keyword {
+	color: #66d9ef;
+}
+
+.token.regex,
+.token.important {
+	color: #fd971f;
+}
+
+.token.important,
+.token.bold {
+	font-weight: bold;
+}
+.token.italic {
+	font-style: italic;
+}
+
+.token.entity {
+	cursor: help;
 }
