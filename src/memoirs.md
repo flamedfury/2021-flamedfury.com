@@ -5,7 +5,7 @@ layout: base.njk
 permalink:  "{{ page.filePathStem }}.html"
 ---
 
-![under construction](https://images.ctfassets.net/b1prsa2j7p70/6HHQrnHTUvOCjxQgJfZR70/3ac0f9d54bdbab88b5cd7c23250c60e4/HeHeartlandPark9227gifconstructionwomen_at_work.gif?h=250#center)
+![under construction](https://images.ctfassets.net/b1prsa2j7p70/6HHQrnHTUvOCjxQgJfZR70/3ac0f9d54bdbab88b5cd7c23250c60e4/HeHeartlandPark9227gifconstructionwomen_at_work.gif?h=250#center "this web is still being woven. please don't be surprised if it changes slightly from time to time...")
 
 these are the unedited notes of my earliest memories of getting online way back when. consider this a work in progress and expect the page to change over time.
 
@@ -26,6 +26,8 @@ when visiting the family friends one time, i was able to use their computer to s
 i didn't spend much time on the internet back at the cafes though. however, my brother and a couple of friends did spend a lot of time down there playing multiplayer command and conquer and warcraft II. so many fun times, creating rules to ensure that we were able to build up our bases and units before having a huge battle before our hour was up.
 
 #### 1996
+
+some time during 96 dad brought home an external 28.8 kbps modem for dialup internet. it was huge, and connected to the pc through a serial cable. he also had a couple of floppy disks 💾 to setup the internet, yes we installed the internet from a floppy disk 💾. well this installed the dialup connection required to connect to the internet through xtra, and included a copy of netscape navigator and netscape chat. this opened up a whole new world to me...
 
 _to be continued_
 
