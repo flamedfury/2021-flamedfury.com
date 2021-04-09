@@ -35,4 +35,4 @@ you can link to my homepage using my 88x31 button, this was used for flamedfury.
 
 webrings were a fun part of the web back in the 90s and 2000s. here are a few that i've recently joined, take the time to surf around them.
 
-{% include "partials/webrings.njk" %}
+{% include "partials/_webrings.njk" %}

@@ -35,4 +35,4 @@ these are the albums that have impacted me in one way or another throughout my l
 
 it's not often that i'm not listening to music while out and about doing or doing chores around the house. here's a list of tracks i've had playing.
 
-{% include "partials/recently-played.njk" %}
+{% include "partials/_recently-played.njk" %}

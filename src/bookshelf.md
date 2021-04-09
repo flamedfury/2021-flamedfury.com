@@ -45,4 +45,4 @@ impact wise for the authors above, i'll talk about raymond feist first. i picked
 
 here are the last books that i've read.
 
-{% include "partials/recently-read.njk" %}
+{% include "partials/_recently-read.njk" %}

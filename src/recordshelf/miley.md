@@ -41,7 +41,7 @@ in november 2020 miley released the best rock record of the decade, plastic hear
 
 check out my miley cyrus mixtape, it's full of my favourite tracks.
 
-{% include "partials/mixtape.njk" %}
+{% include "partials/_miley-mixtape.njk" %}
 
 ## links
 

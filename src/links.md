@@ -10,4 +10,4 @@ permalink:  "{{ page.filePathStem }}.html"
 
 i love surfing the web, these are some of my favourite links
 
-{% include "partials/links.njk" %}
+{% include "partials/_links.njk" %}

@@ -26,4 +26,4 @@ websites and blogs these days are not organically passionate. they're just looki
 - generated with eleventy
 - hosted by neocities
 
-{% include "partials/carbon.njk" %}
+{% include "partials/_carbon.njk" %}
