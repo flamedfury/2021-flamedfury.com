@@ -1,0 +1,12 @@
+<!-- _includes/_dmx-albums.njk -->
+<div class="container">
+<div class="grid">
+{% for item in dmx.albums %}
+<div class="cell">
+<a href="{{ item.url }}">
+<img src="{{ item.image }}" alt="album artwork for {{ item.album }} by {{ item.artist['#text'] }}" class="responsive-image" />
+</a>
+</div>
+{% endfor %}
+</div>
+</div>

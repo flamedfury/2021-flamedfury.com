@@ -1,0 +1,52 @@
+{
+    "albums": [
+      {
+        "artist": "DMX",
+        "album": "it's dark and hell is hot",
+        "url": "https://www.last.fm/music/DMX/It's+Dark+And+Hell+Is+Hot",
+        "image": "../img/recordshelf/dmx/its-dark-and-hell-is-hot.webp"
+      },
+      {
+        "artist": "DMX",
+        "album": "flesh of my flesh, blood of my blood",
+        "url": "https://www.last.fm/music/DMX/Flesh+Of+My+Flesh,+Blood+Of+My+Blood",
+        "image": "../img/recordshelf/dmx/flesh-of-my-flesh-blood-of-my-blood.webp"
+      },
+      {
+        "artist": "DMX",
+        "album": "...and then there was x",
+        "url": "https://www.last.fm/music/DMX/...And+Then+There+Was+X",
+        "image": "../img/recordshelf/dmx/and-then-there-was-x.webp"
+      },
+      {
+        "artist": "DMX",
+        "album": "the great depression",
+        "url": "https://www.last.fm/music/DMX/The+Great+Depression",
+        "image": "../img/recordshelf/dmx/the-great-depression.webp"
+      },
+      {
+        "artist": "DMX",
+        "album": "grand champ",
+        "url": "https://www.last.fm/music/DMX/Grand+Champ",
+        "image": "../img/recordshelf/dmx/grand-champ.webp"
+      },
+      {
+        "artist": "DMX",
+        "album": "year of the dog...again",
+        "url": "https://www.last.fm/music/DMX/Year+Of+The+Dog...Again+(Explicit)",
+        "image": "../img/recordshelf/dmx/year-of-the-dog-again.webp"
+      },
+      {
+        "artist": "DMX",
+        "album": "undisputed",
+        "url": "https://www.last.fm/music/DMX/Undisputed",
+        "image": "../img/recordshelf/dmx/undisputed.webp"
+      },
+      {
+        "artist": "DMX",
+        "album": "redemption of the beast",
+        "url": "https://www.last.fm/music/DMX/Redemption+of+the+Beast",
+        "image": "../img/recordshelf/dmx/redemption-of-the-beast.webp"
+      }
+    ]
+}
