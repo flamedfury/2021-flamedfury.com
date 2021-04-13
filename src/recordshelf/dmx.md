@@ -63,7 +63,7 @@ the members of ruff ryders were:
 ## DMX quotes
 
 > all i know is pain, all i feel is rain
-> how can i maintain with that shit on my brain
+> how can i maintain with that shit on my brain<br>
 >  <cite>- "ruff ryder's anthem"</cite>
 
 > don't came at me wit no bullshit, use caution cause when i wet shit, i dead shit, like abortions <br>
@@ -78,7 +78,7 @@ the members of ruff ryders were:
 > <cite>- "the rain"</cite>
 
 > as ima go through, whatever you want me to
-> just let me know what to do, lord give me a sign
+> just let me know what to do, lord give me a sign<br>
 > <cite>- "lord give me a sign"</cite>
 
 ## DMX commemorations
