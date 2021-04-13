@@ -18,6 +18,8 @@ dance music, i've tasted this over the last few decades with a long affair with 
 
 and don't forget pop music. i love the formulaic construction of a banger, songs that are catchy and fun to sing along to. don't get me wrong, some of it is horrible, but i can find joy in most of it.
 
+***
+
 ## impactful albums
 
 these are the albums that have impacted me in one way or another throughout my life.
@@ -29,7 +31,19 @@ these are the albums that have impacted me in one way or another throughout my l
 - Evil Empire (1996)
 - The Slim Shady LP (1999)
 - 2001 (1999)
+- BTNHResurrection (2000)
 - The Marshall Mathers LP (2000)
+
+***
+
+## fan pages
+
+check out my mini fan pages.
+
+- [it's dark and hell is hot](/recordshelf/dmx.html)
+- [nothing breaks like a heart](/src/recordshelf/miley.html)
+
+***
 
 ## check out my recently played tracks
 

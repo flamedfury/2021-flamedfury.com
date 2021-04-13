@@ -34,6 +34,9 @@ i'm currently building my dmx mixtape for this page, howver you can check it out
 ## DMX facts
 
 - DMX dropped 2 albums in 1998 both to critical acclaim and commercial success.
+- DMX was the first artist in history to reach #1 on the Billboard 200 with each of his first five album.
+- DMX has the 11th highest selling album discography in all of hip hop.
+- 
 
 ## ruff ryders
 
@@ -59,6 +62,10 @@ the members of ruff ryders were:
 
 ## DMX quotes
 
+> all i know is pain, all i feel is rain
+> how can i maintain with that shit on my brain
+>  <cite>- "ruff ryder's anthem"</cite>
+
 > don't came at me wit no bullshit, use caution cause when i wet shit, i dead shit, like abortions <br>
 > <cite>- "n****z done started something"</cite>
 
@@ -70,12 +77,19 @@ the members of ruff ryders were:
 > _now i know only i can stop the rain_ <br>
 > <cite>- "the rain"</cite>
 
+> as ima go through, whatever you want me to
+> just let me know what to do, lord give me a sign
+> <cite>- "lord give me a sign"</cite>
+
 ## DMX commemorations
 
 a selection of articles to commemorate the passing of earl simmons, aka DMX.
 
 - [Artists Pay Tribute To DMX Life & Legacy Following His Death](https://genius.com/a/artists-pay-tribute-to-dmx-life-legacy-following-his-death)
 - [For The Record: Remembering DMX](https://genius.com/videos/Remembering-dmx)
+- [DMX Took Us All to the Basement of Our Emotions](https://www.vulture.com/article/eddie-huang-dmx-remembrance.html)
+- [A Man Named Earl](https://www.vulture.com/article/dmx-obituary.html)
+- [DMX Leaves a Legacy of Passion, Unparalleled Success, and Pain](https://www.theringer.com/2021/4/9/22374949/dmx-obituary-earl-simmons)
 
 
 ### about this shrine
