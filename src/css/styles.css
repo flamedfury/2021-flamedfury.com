@@ -5,21 +5,21 @@
     --serif-font: Georgia, "Times New Roman", Times, serif; 
     --sans-font: "Open Sans", -apple-system, BlinkMacSystemFont, "Avenir Next", Avenir, "Nimbus Sans L", Roboto, Noto, "Segoe UI", Arial, Helvetica, "Helvetica Neue", sans-serif;
     --mono-font: Consolas, Menlo, Monaco, "Andale Mono", "Ubuntu Mono", monospace;
-  
+
     /* Body font size. By default, effectively 18.4px, based on 16px as 'root em' */
     --base-fontsize: 1.15rem;
-  
+
     /* Major third scale progression - see https://type-scale.com/ */
     --header-scale: 1.15;
-  
+
     /* Line height is set to the "Golden ratio" for optimal legibility */
     --line-height: 1.618;
-  
-    /* Default (light) theme */
+
+    /* my list of colours */
     --bg: #0f0f0f;
     --accent-bg: #1f1f1f;
     --accent-table: #141414;
-    --text: #a1a1a1;
+    --text: #abb2bf;
     --text-light: #b0b0b0;
     --border: #d8dae1;
     --accent: #ff1493;
@@ -28,6 +28,21 @@
     --preformatted: #444;
     --marked: #ffdd33;
     --disabled: #efefef;
+
+    --bg: #0f0f0f;
+    --bg2: #1f1f1f;
+    --text: #abb2bf;
+    --text-light: #b0b0b0;
+    --grey: #d1d0ce;
+    --red: #ff2400;
+    --blue: #1589ff;
+    --green: #4cc417;
+    --pink: #ff1493;
+    --pink2: #ff4a73;
+    --orange: #ff8040;
+    --purple: #6a5acd;
+    --yellow: #fbb117;
+
 }
 
 /* jacked from https://github.com/kevquirk/simple.css/blob/main/simple.css */
@@ -52,36 +67,36 @@ h1 {
     font-size: calc(var(--base-fontsize) * var(--header-scale) * var(--header-scale) * var(--header-scale) * var(--header-scale));
     margin-top: calc(var(--line-height) * 1.5rem);
 }
-  
+
 h2 {
     font-size: calc(var(--base-fontsize) * var(--header-scale) * var(--header-scale) * var(--header-scale));
     margin-top: calc(var(--line-height) * 1.5rem);
 }
-  
+
 h3 {
     font-size: calc(var(--base-fontsize) * var(--header-scale) * var(--header-scale));
     margin-top: calc(var(--line-height) * 1.5rem);
 }
-  
+
 h4 {
     font-size: calc(var(--base-fontsize) * var(--header-scale));
     margin-top: calc(var(--line-height) * 1.5rem);
 }
-  
+
 h5 {
     font-size: var(--base-fontsize);
     margin-top: calc(var(--line-height) * 1.5rem);
 }
-  
+
 h6 {
     font-size: calc(var(--base-fontsize) / var(--header-scale));
     margin-top: calc(var(--line-height) * 1.5rem);
 }
-  
+
 /* Format links & buttons */
 a,
 a:visited {
-    color: var(--accent);
+    color: var(--pink);
 }
 
 a:hover {
@@ -96,7 +111,7 @@ table {
 
 td,
 th {
-	border: 1px solid var(--border);
+	border: 1px solid var(--grey);
 	text-align: left;
 	padding: .5rem;
 }
@@ -121,7 +136,7 @@ table caption {
 mark {
     padding: 2px 5px;
     border-radius: 4px;
-    background: var(--marked);
+    background: var(--yellow);
 }
 
 main img, main video {
@@ -143,7 +158,7 @@ figcaption {
 blockquote {
     margin: 2rem 0 2rem 2rem;
     padding: .4rem .8rem;
-	border-left: .35rem solid var(--accent);
+	border-left: .35rem solid var(--pink);
 	opacity: .8;
 	font-style: italic;
 }
@@ -197,7 +212,7 @@ header, main, footer {
 
 /* navigation */
 nav {
-    background: var(--accent-bg);
+    background: var(--bg2);
 }
 
 nav ul {
@@ -222,11 +237,11 @@ nav a {
 
 main, footer {
     padding: 14px 16px;
-    background: var(--accent-bg);
+    background: var(--bg2);
 }
 
 nav, main, footer {
-    border: 2px dashed var(--accent-light);
+    border: 2px dashed var(--pink2);
 }
 
 footer p {
@@ -245,7 +260,7 @@ img[src*="center"] {
 }
 
 hr {
-    border: 1px dashed var(--accent-light);
+    border: 1px dashed var(--pink2);
     margin-top: 32px;
 }
 
@@ -259,7 +274,7 @@ hr {
     padding: 32px;
 }
 
-/* content flex grid stuff 
+/* content flex grid stuff
     jacked from https://www.taniarascia.com/how-to-build-a-responsive-image-gallery-with-flexbox/
 */
 
@@ -281,7 +296,7 @@ hr {
 .cell img {
     display: block;
 }
-  
+
 /* tablets */
 @media screen and (min-width: 600px) {
     .grid {
@@ -293,7 +308,7 @@ hr {
         width: calc(50% - 2rem);
     }
 }
-  
+
 /* desktop */
 @media screen and (min-width: 1000px) {
     .cell {
@@ -323,26 +338,26 @@ hr {
      word-wrap: normal;
      line-height: 1.5;
      max-width: 70%;
- 
+
      -moz-tab-size: 4;
      -o-tab-size: 4;
      tab-size: 4;
- 
+
      -webkit-hyphens: none;
      -moz-hyphens: none;
      -ms-hyphens: none;
      hyphens: none;
  }
- 
+
  /* Code blocks */
  pre[class*="language-"] {
      padding: 1em;
      margin: 0px auto;
      overflow: auto;
      border-radius: 0.3em;
-     border: 1px dashed var(--accent-light);
+     border: 1px dashed var(--pink2);
  }
- 
+
  /* Inline code */
  :not(pre) > code[class*="language-"] {
      padding: .1em;
@@ -358,7 +373,7 @@ hr {
 }
 
 .token.punctuation {
-	color: #d25252;
+	color: var(--red);
 }
 
 .token.namespace {
@@ -370,12 +385,12 @@ hr {
 .token.constant,
 .token.symbol,
 .token.deleted {
-	color: #61afef;
+	color: var(--blue);
 }
 
 .token.boolean,
 .token.number {
-	color: #c678dd;
+	color: var(--purple);
 }
 
 .token.selector,
@@ -384,7 +399,7 @@ hr {
 .token.char,
 .token.builtin,
 .token.inserted {
-	color: #61afef;
+	color: var(--blue);
 }
 
 .token.operator,
@@ -393,23 +408,23 @@ hr {
 .language-css .token.string,
 .style .token.string,
 .token.variable {
-	color: #abb2bf;
+	color: var(--grey);
 }
 
 .token.atrule,
 .token.attr-value,
 .token.function,
 .token.class-name {
-	color: #c678dd;
+	color: var(--purple);
 }
 
 .token.keyword {
-	color: #66d9ef;
+	color: var(--blue);
 }
 
 .token.regex,
 .token.important {
-	color: #fd971f;
+	color: var(--orange);
 }
 
 .token.important,

@@ -10,7 +10,9 @@ permalink:  "{{ page.filePathStem }}.html"
 <!-- - [how GeoCities webrings made the ‘90s internet a cozier place](https://www.mic.com/p/how-geocities-webrings-made-the-90s-internet-a-cozier-place-19638198)
 - [the ruins of Geocities](http://contemporary-home-computing.org/still-there/geocities.html)
 - [an ode to geocities](https://thehistoryoftheweb.com/an-ode-to-geocities/)
-- [one terabyte of kilobyte age](https://blog.geocities.institute/) -->
+- [one terabyte of kilobyte age](https://blog.geocities.institute/) 
+- [The early internet is breaking - here’s how the World Wide Web from the 90s on will be saved](https://www.youtube.com/watch?v=2LzyRcLJdlg) 
+- [end-to-end, p2p, my to me](https://www.youtube.com/watch?v=eHyn3sKNdA8) -->
 
 ***
 
