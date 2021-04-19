@@ -1,18 +1,18 @@
-/* Set the global variables for everything. */
+/* set the global variables for everything. */
 :root {
 
-    /* Set sans-serif & mono fonts */
-    --serif-font: Georgia, "Times New Roman", Times, serif; 
+    /* use system fonts */
+    --serif-font: Georgia, "Times New Roman", Times, serif;
     --sans-font: "Open Sans", -apple-system, BlinkMacSystemFont, "Avenir Next", Avenir, "Nimbus Sans L", Roboto, Noto, "Segoe UI", Arial, Helvetica, "Helvetica Neue", sans-serif;
     --mono-font: Consolas, Menlo, Monaco, "Andale Mono", "Ubuntu Mono", monospace;
 
-    /* Body font size. By default, effectively 18.4px, based on 16px as 'root em' */
+    /* body font size. By default, effectively 18.4px, based on 16px as 'root em' */
     --base-fontsize: 1.15rem;
 
-    /* Major third scale progression - see https://type-scale.com/ */
+    /* major third scale progression - see https://type-scale.com/ */
     --header-scale: 1.15;
 
-    /* Line height is set to the "Golden ratio" for optimal legibility */
+    /* Line height is set to the "golden ratio" for optimal legibility */
     --line-height: 1.618;
 
     /* my list of colours */
