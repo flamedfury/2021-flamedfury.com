@@ -17,20 +17,8 @@
 
     /* my list of colours */
     --bg: #0f0f0f;
-    --accent-bg: #1f1f1f;
-    --accent-table: #141414;
-    --text: #abb2bf;
-    --text-light: #b0b0b0;
-    --border: #d8dae1;
-    --accent: #ff1493;
-    --accent-light: #ff4a73;
-    --code: #d81b60;
-    --preformatted: #444;
-    --marked: #ffdd33;
-    --disabled: #efefef;
-
-    --bg: #0f0f0f;
     --bg2: #1f1f1f;
+    --accent-table: #141414;
     --text: #abb2bf;
     --text-light: #b0b0b0;
     --grey: #d1d0ce;
