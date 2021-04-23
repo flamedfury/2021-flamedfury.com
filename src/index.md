@@ -17,10 +17,13 @@ i chose [neocities](https://neocities.org) as my homepage host to step away from
 
 i love the internet, but not all things about the internet, you can read more over on my [about page](about.html). if you want to dive deeper, check out [my memoirs](memoirs.html) which detail my earliet memories of getting online and surfing the web.
 
-#### surf the web
+---
+
+### surf the web
 
 the true spirit of the web is hyperlinking to all of the interesting homepages and websites you come across.
 
+#### link me
 you can link to my homepage using my 88x31 button, this was used for flamedfury.com back in the year 2000!
 
 ![flamedfury 88x31 link button](../img/fury.gif#center "visit flamedfury now!")
@@ -31,8 +34,7 @@ you can link to my homepage using my 88x31 button, this was used for flamedfury.
 </a>
 ```
 
-*** 
-
+#### webrings
 webrings were a fun part of the web back in the 90s and 2000s. here are a few that i've recently joined, take the time to surf around them.
 
 {% include "partials/_webrings.njk" %}

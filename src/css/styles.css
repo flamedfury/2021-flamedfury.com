@@ -1,159 +1,176 @@
 /* set the global variables for everything. */
 :root {
+  /* use system fonts */
+  --serif-font: Georgia, "Times New Roman", Times, serif;
+  --sans-font: "Open Sans", -apple-system, BlinkMacSystemFont, "Avenir Next",
+    Avenir, "Nimbus Sans L", Roboto, Noto, "Segoe UI", Arial, Helvetica,
+    "Helvetica Neue", sans-serif;
+  --mono-font: Consolas, Menlo, Monaco, "Andale Mono", "Ubuntu Mono", monospace;
 
-    /* use system fonts */
-    --serif-font: Georgia, "Times New Roman", Times, serif;
-    --sans-font: "Open Sans", -apple-system, BlinkMacSystemFont, "Avenir Next", Avenir, "Nimbus Sans L", Roboto, Noto, "Segoe UI", Arial, Helvetica, "Helvetica Neue", sans-serif;
-    --mono-font: Consolas, Menlo, Monaco, "Andale Mono", "Ubuntu Mono", monospace;
+  /* body font size. By default, effectively 18.4px, based on 16px as 'root em' */
+  --base-fontsize: 1.15rem;
 
-    /* body font size. By default, effectively 18.4px, based on 16px as 'root em' */
-    --base-fontsize: 1.15rem;
+  /* major third scale progression - see https://type-scale.com/ */
+  --header-scale: 1.15;
 
-    /* major third scale progression - see https://type-scale.com/ */
-    --header-scale: 1.15;
+  /* Line height is set to the "golden ratio" for optimal legibility */
+  --line-height: 1.618;
 
-    /* Line height is set to the "golden ratio" for optimal legibility */
-    --line-height: 1.618;
-
-    /* my list of colours */
-    --bg: #0f0f0f;
-    --bg2: #1f1f1f;
-    --accent-table: #141414;
-    --text: #abb2bf;
-    --text-light: #b0b0b0;
-    --grey: #d1d0ce;
-    --red: #ff2400;
-    --blue: #1589ff;
-    --green: #4cc417;
-    --pink: #ff1493;
-    --pink2: #ff4a73;
-    --orange: #ff8040;
-    --purple: #6a5acd;
-    --yellow: #fbb117;
+  /* my list of colours */
+  --bg: #0f0f0f;
+  --bg2: #1f1f1f;
+  --accent-table: #141414;
+  --text: #abb2bf;
+  --text-light: #b0b0b0;
+  --grey: #d1d0ce;
+  --red: #ff2400;
+  --blue: #1589ff;
+  --green: #4cc417;
+  --pink: #ff1493;
+  --pink2: #ff4a73;
+  --orange: #ff8040;
+  --purple: #6a5acd;
+  --yellow: #fbb117;
 }
 
 /* jacked from https://github.com/kevquirk/simple.css/blob/main/simple.css */
 html {
-    /* Set the font globally */
-    font-family: var(--serif-font);
-    font-size: 16px;
+  /* Set the font globally */
+  font-family: var(--serif-font);
+  font-size: 16px;
 }
 
 /* Make the body a nice central block */
 body {
-    color: var(--text);
-    background: var(--bg);
-    font-size: var(--base-fontsize);
-    line-height: var(--line-height);
+  color: var(--text);
+  background: var(--bg);
+  font-size: var(--base-fontsize);
+  line-height: var(--line-height);
 }
 
 /* Format headers */
-h1, h2, h3, h4, h5, h6 { font-family: var(--sans-font); }
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: var(--sans-font);
+}
 
 h1 {
-    font-size: calc(var(--base-fontsize) * var(--header-scale) * var(--header-scale) * var(--header-scale) * var(--header-scale));
-    margin-top: calc(var(--line-height) * 1.5rem);
+  font-size: calc(
+    var(--base-fontsize) * var(--header-scale) * var(--header-scale) *
+      var(--header-scale) * var(--header-scale)
+  );
+  margin-top: calc(var(--line-height) * 1.5rem);
 }
 
 h2 {
-    font-size: calc(var(--base-fontsize) * var(--header-scale) * var(--header-scale) * var(--header-scale));
-    margin-top: calc(var(--line-height) * 1.5rem);
+  font-size: calc(
+    var(--base-fontsize) * var(--header-scale) * var(--header-scale) *
+      var(--header-scale)
+  );
+  margin-top: calc(var(--line-height) * 1.5rem);
 }
 
 h3 {
-    font-size: calc(var(--base-fontsize) * var(--header-scale) * var(--header-scale));
-    margin-top: calc(var(--line-height) * 1.5rem);
+  font-size: calc(
+    var(--base-fontsize) * var(--header-scale) * var(--header-scale)
+  );
+  margin-top: calc(var(--line-height) * 1.5rem);
 }
 
 h4 {
-    font-size: calc(var(--base-fontsize) * var(--header-scale));
-    margin-top: calc(var(--line-height) * 1.5rem);
+  font-size: calc(var(--base-fontsize) * var(--header-scale));
+  margin-top: calc(var(--line-height) * 1.5rem);
 }
 
 h5 {
-    font-size: var(--base-fontsize);
-    margin-top: calc(var(--line-height) * 1.5rem);
+  font-size: var(--base-fontsize);
+  margin-top: calc(var(--line-height) * 1.5rem);
 }
 
 h6 {
-    font-size: calc(var(--base-fontsize) / var(--header-scale));
-    margin-top: calc(var(--line-height) * 1.5rem);
+  font-size: calc(var(--base-fontsize) / var(--header-scale));
+  margin-top: calc(var(--line-height) * 1.5rem);
 }
 
 /* Format links & buttons */
 a,
 a:visited {
-    color: var(--pink);
+  color: var(--pink);
 }
 
 a:hover {
-    text-decoration: none;
+  text-decoration: none;
 }
 
 /* Format tables */
 table {
-	border-collapse: collapse;
-	width: 100%
+  border-collapse: collapse;
+  width: 100%;
 }
 
 td,
 th {
-	border: 1px solid var(--grey);
-	text-align: left;
-	padding: .5rem;
+  border: 1px solid var(--grey);
+  text-align: left;
+  padding: 0.5rem;
 }
 
 th {
-	background: var(--accent-bg);
-    font-weight: bold;
+  background: var(--accent-bg);
+  font-weight: bold;
 }
 
 tr:nth-child(even) {
-	/* Set every other cell slightly darker. Improves readability. */
-	background: var(--accent-table);
+  /* Set every other cell slightly darker. Improves readability. */
+  background: var(--accent-table);
 }
 
 table caption {
-	font-weight: bold;
-	margin-bottom: .5rem;
+  font-weight: bold;
+  margin-bottom: 0.5rem;
 }
 
 /* Misc body elements */
 
 mark {
-    padding: 2px 5px;
-    border-radius: 4px;
-    background: var(--yellow);
+  padding: 2px 5px;
+  border-radius: 4px;
+  background: var(--yellow);
 }
 
-main img, main video {
-    max-width: 100%;
-    border-radius: 5px;
+main img,
+main video {
+  max-width: 100%;
+  border-radius: 5px;
 }
 
 figure {
-    margin: 0;
+  margin: 0;
 }
 
 figcaption {
-    font-size: .9rem;
-    color: var(--text-light);
-    text-align: center;
-    margin-bottom: 1rem;
+  font-size: 0.9rem;
+  color: var(--text-light);
+  text-align: center;
+  margin-bottom: 1rem;
 }
 
 blockquote {
-    margin: 2rem 0 2rem 2rem;
-    padding: .4rem .8rem;
-	border-left: .35rem solid var(--pink);
-	opacity: .8;
-	font-style: italic;
+  margin: 2rem 0 2rem 2rem;
+  padding: 0.4rem 0.8rem;
+  border-left: 0.35rem solid var(--pink);
+  opacity: 0.8;
+  font-style: italic;
 }
 
 cite {
-    font-size: 0.9rem;
-    color: var(--text-light);
-    font-style: normal;
+  font-size: 0.9rem;
+  color: var(--text-light);
+  font-style: normal;
 }
 
 /* </end>jacked from https://github.com/kevquirk/simple.css/blob/main/simple.css */
@@ -162,103 +179,120 @@ cite {
 
 /* reset the box borders */
 html {
-    -webkit-box-sizing: border-box;
-    -moz-box-sizing: border-box;
-    box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
 }
 
-*, *:before, *:after {
-    -webkit-box-sizing: inherit;
-    -moz-box-sizing: inherit;
-    box-sizing: inherit;
+*,
+*:before,
+*:after {
+  -webkit-box-sizing: inherit;
+  -moz-box-sizing: inherit;
+  box-sizing: inherit;
 }
 
 body {
-    background-image: url("../img/camo-bg.png");
+  background-image: url("../img/camo-bg.png");
 }
 
 /* hypersponsive */
 @media screen and (max-width: 100%) {
-    header, main, footer {
-        width: 1000px;
-    }
+  header,
+  main,
+  footer {
+    width: 1000px;
+  }
 }
 
 @media screen and (max-width: 600px) {
-ul.nav li {float: none;}
-.img-float {float: none;}
+  ul.nav li {
+    float: none;
+  }
+  .img-float {
+    float: none;
+  }
 }
 
-header, main, footer {
-    float: center;
-    width: 100%;
-    max-width: 1000px;
-    margin: 0 auto;
-    margin-bottom: 1rem;
+header,
+main,
+footer {
+  float: center;
+  width: 100%;
+  max-width: 1000px;
+  margin: 0 auto;
+  margin-bottom: 1rem;
 }
 
 /* navigation */
 nav {
-    background: var(--bg2);
+  background: var(--bg2);
 }
 
 nav ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
 }
 
 nav li {
-    float: left;
+  float: left;
 }
 
 nav a {
-    display: block;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
+  display: block;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
 }
 
 /* hypercontent */
 
-main, footer {
-    padding: 14px 16px;
-    background: var(--bg2);
+main,
+footer {
+  padding: 14px 16px;
+  background: var(--bg2);
 }
 
-nav, main, footer {
-    border: 2px dashed var(--pink2);
+nav,
+main,
+footer {
+  border: 2px dashed var(--pink2);
 }
 
 footer p {
-    text-align: center;
-    font-size: 0.9em;
+  text-align: center;
+  font-size: 0.9em;
 }
 
 img {
-    max-width: 100%;
-    height: auto;
+  max-width: 100%;
+  height: auto;
 }
 
 img[src*="center"] {
-    margin: 0 auto;
-    display: block;
+  margin: 0 auto;
+  display: block;
 }
 
 hr {
-    border: 1px dashed var(--pink2);
-    margin-top: 32px;
+  border: 1px dashed var(--pink2);
+  margin-top: 32px;
 }
 
 .divider {
-    padding: 32px 0 0 0;
+  padding: 32px 0 0 0;
 }
 
 .webring-css {
-    display: flex;
-    justify-content: center;
-    padding: 32px;
+  display: flex;
+  justify-content: center;
+  padding: 32px;
+}
+
+.buttons {
+  border: 2px dashed #ff4a73;
 }
 
 /* content flex grid stuff
@@ -266,41 +300,41 @@ hr {
 */
 
 .container {
-    margin: 0 auto;
-    max-width: 1200px;
-    padding: 0 1rem;
+  margin: 0 auto;
+  max-width: 1200px;
+  padding: 0 1rem;
 }
 
 .responsive-image {
-    max-width: 100%;
-    border-radius: 5px;
+  max-width: 100%;
+  border-radius: 5px;
 }
 
 .cell {
-    margin: 1rem;
+  margin: 1rem;
 }
 
 .cell img {
-    display: block;
+  display: block;
 }
 
 /* tablets */
 @media screen and (min-width: 600px) {
-    .grid {
-        display: flex;
-        flex-wrap: wrap;
-        flex-direction: row;
-    }
-    .cell {
-        width: calc(50% - 2rem);
-    }
+  .grid {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+  }
+  .cell {
+    width: calc(50% - 2rem);
+  }
 }
 
 /* desktop */
 @media screen and (min-width: 1000px) {
-    .cell {
-        width: calc(33.3333% - 2rem);
-    }
+  .cell {
+    width: calc(33.3333% - 2rem);
+  }
 }
 
 /* syntax highlighting */
@@ -311,60 +345,60 @@ hr {
  * @author ocodia
  */
 
- code[class*="language-"],
- pre[class*="language-"] {
-     color: #f8f8f2;
-     background: none;
-     text-shadow: 0 1px rgba(0, 0, 0, 0.3);
-     font-family: Consolas, Monaco, 'Andale Mono', 'Ubuntu Mono', monospace;
-     font-size: 0.75rem;
-     text-align: left;
-     white-space: pre;
-     word-spacing: normal;
-     word-break: normal;
-     word-wrap: normal;
-     line-height: 1.5;
-     max-width: 70%;
+code[class*="language-"],
+pre[class*="language-"] {
+  color: #f8f8f2;
+  background: none;
+  text-shadow: 0 1px rgba(0, 0, 0, 0.3);
+  font-family: Consolas, Monaco, "Andale Mono", "Ubuntu Mono", monospace;
+  font-size: 0.75rem;
+  text-align: left;
+  white-space: pre;
+  word-spacing: normal;
+  word-break: normal;
+  word-wrap: normal;
+  line-height: 1.5;
+  max-width: 70%;
 
-     -moz-tab-size: 4;
-     -o-tab-size: 4;
-     tab-size: 4;
+  -moz-tab-size: 4;
+  -o-tab-size: 4;
+  tab-size: 4;
 
-     -webkit-hyphens: none;
-     -moz-hyphens: none;
-     -ms-hyphens: none;
-     hyphens: none;
- }
+  -webkit-hyphens: none;
+  -moz-hyphens: none;
+  -ms-hyphens: none;
+  hyphens: none;
+}
 
- /* Code blocks */
- pre[class*="language-"] {
-     padding: 1em;
-     margin: 0px auto;
-     overflow: auto;
-     border-radius: 0.3em;
-     border: 1px dashed var(--pink2);
- }
+/* Code blocks */
+pre[class*="language-"] {
+  padding: 1em;
+  margin: 0px auto;
+  overflow: auto;
+  border-radius: 0.3em;
+  border: 1px dashed var(--pink2);
+}
 
- /* Inline code */
- :not(pre) > code[class*="language-"] {
-     padding: .1em;
-     border-radius: .3em;
-     white-space: normal;
- }
+/* Inline code */
+:not(pre) > code[class*="language-"] {
+  padding: 0.1em;
+  border-radius: 0.3em;
+  white-space: normal;
+}
 
 .token.comment,
 .token.prolog,
 .token.doctype,
 .token.cdata {
-	color: slategray;
+  color: slategray;
 }
 
 .token.punctuation {
-	color: var(--red);
+  color: var(--red);
 }
 
 .token.namespace {
-	opacity: .7;
+  opacity: 0.7;
 }
 
 .token.property,
@@ -372,12 +406,12 @@ hr {
 .token.constant,
 .token.symbol,
 .token.deleted {
-	color: var(--blue);
+  color: var(--blue);
 }
 
 .token.boolean,
 .token.number {
-	color: var(--purple);
+  color: var(--purple);
 }
 
 .token.selector,
@@ -386,7 +420,7 @@ hr {
 .token.char,
 .token.builtin,
 .token.inserted {
-	color: var(--blue);
+  color: var(--blue);
 }
 
 .token.operator,
@@ -395,33 +429,33 @@ hr {
 .language-css .token.string,
 .style .token.string,
 .token.variable {
-	color: var(--grey);
+  color: var(--grey);
 }
 
 .token.atrule,
 .token.attr-value,
 .token.function,
 .token.class-name {
-	color: var(--purple);
+  color: var(--purple);
 }
 
 .token.keyword {
-	color: var(--blue);
+  color: var(--blue);
 }
 
 .token.regex,
 .token.important {
-	color: var(--orange);
+  color: var(--orange);
 }
 
 .token.important,
 .token.bold {
-	font-weight: bold;
+  font-weight: bold;
 }
 .token.italic {
-	font-style: italic;
+  font-style: italic;
 }
 
 .token.entity {
-	cursor: help;
+  cursor: help;
 }
