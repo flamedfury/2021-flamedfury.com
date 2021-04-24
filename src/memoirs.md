@@ -1,7 +1,7 @@
 ---
 title: fLaMEd's adventures on the web
 description: my web memoirs
-layout: base.njk
+layout: page
 permalink:  "{{ page.filePathStem }}.html"
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: bookshelf 📚
 description: my collection of books
-layout: base.njk
+layout: page
 eleventyNavigation:
     key: bookshelf
     order: 300

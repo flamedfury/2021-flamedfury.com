@@ -1,7 +1,7 @@
 ---
 title: cities skylines
 description: notes for cities skylines
-layout: base.njk
+layout: page
 permalink:  "{{ page.filePathStem }}.html"
 ---
 

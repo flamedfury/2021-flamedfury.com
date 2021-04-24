@@ -1,7 +1,7 @@
 ---
 title: gameshelf 🎮
 description: my collection of games
-layout: base.njk
+layout: page
 eleventyNavigation:
     key: gameshelf
     order: 400

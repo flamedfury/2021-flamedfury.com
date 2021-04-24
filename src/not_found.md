@@ -1,7 +1,7 @@
 ---
 title: 404 page not found
 description: 404 page not found
-layout: base.njk
+layout: page
 permalink:  "{{ page.filePathStem }}.html"
 ---
 

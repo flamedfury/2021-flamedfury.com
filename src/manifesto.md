@@ -1,7 +1,7 @@
 ---
 title: manifesto
 description: my web manifesto
-layout: base.njk
+layout: page
 permalink:  "{{ page.filePathStem }}.html"
 ---
 

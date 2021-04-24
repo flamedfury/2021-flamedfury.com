@@ -1,7 +1,7 @@
 ---
 title: my house plants 🍃
 description: my collection of plants
-layout: base.njk
+layout: page
 eleventyNavigation:
     key: plants
     order: 600

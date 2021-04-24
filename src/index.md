@@ -2,6 +2,7 @@
 title: flamedfury, tkts2mydwnfll
 description: i sold some tickets to come see my downfall. it sold out in minutes.
 layout: base
+buttons: true
 eleventyNavigation:
     key: home
     order: 100

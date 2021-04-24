@@ -1,36 +1,34 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  {% include "../_includes/partials/head.njk" %}
+  {% include "../_includes/partials/_head.njk" %}
 </head>
 
 <body>
 
   <header>
-    {% include "../_includes/partials/header.njk" %}
+    {% include "../_includes/partials/_header.njk" %}
   </header>
 
   <!--]	main [-->
   <main>
     {% block content %}
     <!--]	hypertext content [-->
-    
+
     <h1>{{ title }}</h1>
 
     {{ content | safe }}
 
     <!--]	/hypertext content [-->
     {% endblock %}
-
-    {% include "../_includes/backlinks.njk" %}
   </main>
   <!--] /main [-->
 
   <!--] footer [-->
   <footer>
-    {% include "../_includes/partials/footer.njk" %}
+    {% include "../_includes/partials/_footer.njk" %}
   </footer>
-
+  <!--] /footer [-->
 
 </body>
 </html>

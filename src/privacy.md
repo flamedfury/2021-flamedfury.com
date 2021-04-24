@@ -1,7 +1,7 @@
 ---
 title: privacy policy
 description: i'm not tracking or collecting a single thing
-layout: base.njk
+layout: page
 # eleventyNavigation:
 #     key: privacy
 #     order: 900

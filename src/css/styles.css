@@ -209,14 +209,12 @@ body {
   ul.nav li {
     float: none;
   }
-  .img-float {
-    float: none;
-  }
 }
 
 header,
 main,
-footer {
+footer,
+.buttons {
   float: center;
   width: 100%;
   max-width: 1000px;
@@ -250,14 +248,16 @@ nav a {
 /* hypercontent */
 
 main,
-footer {
+footer,
+.buttons {
   padding: 14px 16px;
   background: var(--bg2);
 }
 
 nav,
 main,
-footer {
+footer,
+.buttons {
   border: 2px dashed var(--pink2);
 }
 
@@ -292,7 +292,8 @@ hr {
 }
 
 .buttons {
-  border: 2px dashed #ff4a73;
+  display: flex;
+  justify-content: center;
 }
 
 /* content flex grid stuff

@@ -1,7 +1,7 @@
 ---
 title: links 🔗
 description: my collection of links
-layout: base.njk
+layout: page
 eleventyNavigation:
     key: links
     order: 700

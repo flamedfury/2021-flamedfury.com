@@ -1,7 +1,7 @@
 ---
 title: statement of audience
 description: please don't take my homepage too seriously. this is my statement of intent for my audience.
-layout: base
+layout: page
 permalink: "{{ page.filePathStem }}.html"
 ---
 

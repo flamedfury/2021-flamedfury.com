@@ -1,7 +1,7 @@
 ---
 title: recordshelf 🎧
 description: my collection of music
-layout: base.njk
+layout: page
 eleventyNavigation:
     key: recordshelf
     order: 200

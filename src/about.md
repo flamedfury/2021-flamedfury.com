@@ -1,7 +1,7 @@
 ---
 title: about fLaMEd 🔥
 description: who is fLaMEd?
-layout: base
+layout: page
 eleventyNavigation:
     key: about
     order: 800
@@ -26,4 +26,5 @@ websites and blogs these days are not organically passionate. they're just looki
 - generated with eleventy
 - hosted by neocities
 
+please read my [statement of audience](about/statement-of-audience.html).
 {% include "partials/_carbon.njk" %}
