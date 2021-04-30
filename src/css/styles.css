@@ -31,9 +31,11 @@
   --orange: #ff8040;
   --purple: #6a5acd;
   --yellow: #fbb117;
+  --white: #fff;
 }
 
 /* jacked from https://github.com/kevquirk/simple.css/blob/main/simple.css */
+/* but i've modified it now oh shiet */
 html {
   /* Set the font globally */
   font-family: var(--serif-font);
@@ -55,7 +57,14 @@ h3,
 h4,
 h5,
 h6 {
+  color: var(--white);
   font-family: var(--sans-font);
+  background: var(--pink2);
+  /* box-shadow: 10px 0 0 var(--pink2), -10px 0 0 var(--pink2); */
+  box-decoration-break: clone;
+  rotate: -1deg;
+  display: inline-block;
+  padding: 8px;
 }
 
 h1 {
