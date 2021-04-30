@@ -62,7 +62,7 @@ h6 {
   background: var(--pink2);
   /* box-shadow: 10px 0 0 var(--pink2), -10px 0 0 var(--pink2); */
   box-decoration-break: clone;
-  rotate: -1deg;
+  transform: rotate(-1deg);
   display: inline-block;
   padding: 8px;
 }
