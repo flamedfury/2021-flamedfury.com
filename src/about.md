@@ -8,7 +8,7 @@ eleventyNavigation:
 permalink: "{{ page.filePathStem }}.html"
 ---
 
-hey 👋, i'm [fLaMEd](https://neocities.org/site/flamedfury/) 🔥, and i'm the [webmaster](https://justinjackson.ca/webmaster/) of flamedfury. i have been [a citizen of the internet since 1996](memoirs.html). i love the web, but not all things about the web. [i have a huge dislike for the current commercialisation, monitisation, and walled garden silo approach of the modern web](manifesto.html).
+hey 👋, i'm [fLaMEd](https://neocities.org/site/flamedfury/) 🔥, and i'm the [webmaster](https://justinjackson.ca/webmaster/) of flamedfury. i have been [a citizen of the internet since 1996](memoirs.html). i love the web (as well as the internet), but not all things about the web. [i have a huge dislike for the current commercialisation, monitisation, and walled garden silo approach of the modern web](manifesto.html).
 
 ## why i have a homepage
 
