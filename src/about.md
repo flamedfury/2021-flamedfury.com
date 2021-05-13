@@ -10,15 +10,21 @@ permalink: "{{ page.filePathStem }}.html"
 
 hey 👋, i'm [fLaMEd](https://neocities.org/site/flamedfury/) 🔥, and i'm the [webmaster](https://justinjackson.ca/webmaster/) of flamedfury. i have been [a citizen of the internet since 1996](memoirs.html). i love the web (as well as the internet), but not all things about the web. [i have a huge dislike for the current commercialisation, monitisation, and walled garden silo approach of the modern web](manifesto.html).
 
-## why i have a homepage
+## interests
 
-i believe in taking back control, reclaiming my digital future and contribute to rebuilding a web for everybody.
+my interests are many.
 
-i don't have a website for popularity or making money. i want to develop interesting things to write and share. i don't care if anyone reads it or not. i don't want to share on social media.
+i enjoy keeping fit, either by working out in my garage gym or walking the dogs twice a day.
 
-i miss the personal, do it yourself aspect of everyone having their own homepage rather than a page within a closed social media platform. the rise of these social media platforms have lead to an [increasingly user-hostile web](https://neustadt.fr/essays/against-a-user-hostile-web/), and i don't like it.
+working out, walking the dogs, or chores around the house and i'm most likley [listening to music](../recordshelf.html). it's not often that i'm not!
 
-websites and blogs these days are not organically passionate. they're just looking at ways to capitalise on any given subject, and an seo mess dilluting the usefulness of the web!
+i enjoy reading, both [books](../bookshelf.html) and [comic books](../comicbookrack.html). if i'm not in the mood for reading i enjoy nothing more than chilling on the couch and enjoying a movie or a tv show.
+
+while i don't have the time and energy for it like i used to, i love [playing computer games](../gameshelf.html).
+
+i'm a big fan of beer and have tried thousands during my time but have settled on a few styles that i enjoy now. as well as drinking beer, i enjoy brewing it.
+
+my family is my biggest interest, among all the things listed above, my wife and my son are my number one priority.
 
 ## about my homepage
 
