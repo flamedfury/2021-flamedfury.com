@@ -30,7 +30,15 @@ the medium of choice on the personal web is the personal homepage. with our own 
 
 we can decide what goes where and don't care if it's beautiful or a beautiful mess.
 
-## the commerical web
+## the commercial web
+the web today, social media is easy and people are lazy, or they don't know what more the web can offer them.
+
+for the most part, facebook, twitter, instagram all make it very easy to share what's on peoples minds quickly with no setup.
+
+which is fine. however, i don't see a too big of a difference between that and sharing the same stuff on your own personal home page, where you get to **own your own content**, except that the setup experience requires a few more steps than mindlessly entering every single piece of personal information.
+
+## final thought
+having a personal homepage is awesome, if you don't have one already, get one!
 
 *to be continued*
 <!-- - [how GeoCities webrings made the ‘90s internet a cozier place](https://www.mic.com/p/how-geocities-webrings-made-the-90s-internet-a-cozier-place-19638198)
