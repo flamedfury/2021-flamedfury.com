@@ -1,3 +1,26 @@
+<h2>cool sites</h2>
+<p>collection of websites that i find useful for various interests.</p>
+
+<table>
+<tbody>
+{% for item in links.coolSites %}
+{% if item.siteName %}
+<tr>
+<td><a href="{{ item.url }}">{{ item.siteName }}</a></td>
+<td>{{ item.siteDescription }}</td>
+</tr>
+{% else %}
+<tr>
+<td><a href="{{ item.url }}">{{ item.author }}</a></td>
+<td>{{ item.siteDescription }}</td>
+</tr>
+{% endif %}
+{% endfor %}
+</tbody>
+</table>
+
+<hr>
+
 <h2>neofriends</h2>
 
 <table>

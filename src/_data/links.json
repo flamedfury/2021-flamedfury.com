@@ -269,6 +269,33 @@
       "siteName": "paul graham",
       "siteDescription": "simple looking website with a heap of content. some really interesting essays amongst a bunch of other stuff."
     }
+  ],
+  "coolSites": [
+    {
+      "url": "https://discogs.com",
+      "siteName": "discogs",
+      "siteDescription": "album information, largest music database online. huge market place for music reselling, love it for tracking down vinyl."
+    },
+    {
+      "url": "https://genius.com",
+      "siteName": "genius",
+      "siteDescription": "huge lyrics database. used to be just rap music, but now offers all genres. use it for checking out what the actualy lyrics are after singing something completely wrong for days after listening to a song."
+    },
+    {
+      "url": "https://imdb.com",
+      "siteName": "imdb",
+      "siteDescription": "have used imdb for decades to check out movie infomation, cross reference actresses and check to see if that was actually them in that movie."
+    },
+    {
+      "url": "https://fandom.com",
+      "siteName": "fandom",
+      "siteDescription": "huge database of pop culture."
+    },
+    {
+      "url": "https://themoviedb.org/",
+      "siteName": "tmdb",
+      "siteDescription": "movie and television meta data."
+    }
   ]
 }
 
