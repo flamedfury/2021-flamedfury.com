@@ -17,6 +17,21 @@ i miss the personal, do it yourself aspect of everyone having their own homepage
 
 websites and blogs these days are not organically passionate. they're just looking at ways to capitalise on any given subject, and an seo mess dilluting the usefulness of the web!
 
+## the old web
+
+it's hard for me to pin point when or where the old web finished for me. i want to say sometime around 2010...
+
+to me the old web was not an aesthetic, but a community, not just one community but hundreds of little communities.
+
+sure there were websites that we lovingly slapped together html with textured backgrounds and hard to read text and enough animated gifs to bring your internet connection to your knees, but there were also a lot of really nice looking websites, remember this was a time where we were starting to figure out what we could really do on this web thing.
+
+to me, the old web was all about having your own place on the web, lovingly crafting your homepage and tending to it over time, filling it with whatever we felt was interesting.
+we linked far and wide, to our favourite sites or new sites we came across that we thought were cool or interesting. we linked to each other. we didn't need a search engine to tell us where we might need to visit.
+
+we posted useful information, information that got straight to the point. we didn't post recipes or guides with a 1000 word story on how a loaf of freshly baked bread straight out of the oven reminded us of spending summers at our grandparents farm. fuck that haha.
+
+we were not confined to the walls of giant tech companies hostile silos of the internet.
+
 ## the personal web
 when i think of the web my first thoughts are of the personal web, and i smile.
 
