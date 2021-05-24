@@ -72,4 +72,4 @@ having a personal homepage is awesome, if you don't have one already, get one!
 
 ***
 
-_this page draws inspiration from [sadness](https://sadgrl.online/newoldweb/manifesto.html) and all the other links above_.
+*last updated 2021-05-24*
