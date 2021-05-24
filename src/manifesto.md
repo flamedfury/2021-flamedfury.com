@@ -7,6 +7,12 @@ permalink:  "{{ page.filePathStem }}.html"
 
 ![under construction](https://images.ctfassets.net/b1prsa2j7p70/6HHQrnHTUvOCjxQgJfZR70/3ac0f9d54bdbab88b5cd7c23250c60e4/HeHeartlandPark9227gifconstructionwomen_at_work.gif?h=250#center)
 
+the internet used to be a huge place. netizens filled their time writing email, visiting forums, making websites, chatting on irc. they filled their bookmarks folder in their browsers with hundreds of places they enjoyed to visit across the web.
+
+these days, the internet is smaller, reduced to a smaller number of places that people may visit every day. boring.
+
+it's time to take it back.
+
 ## why i have a homepage
 
 i believe in taking back control, reclaiming my digital future and contribute to rebuilding a web for everybody.
