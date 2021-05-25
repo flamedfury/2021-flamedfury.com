@@ -30,7 +30,8 @@ my family is my biggest interest, among all the things listed above, my wife and
 
 - coded by hand
 - generated with eleventy
-- hosted by neocities
+- hosted on neocities
 
 please read my [statement of audience](about/statement-of-audience.html).
+
 {% include "partials/_carbon.njk" %}
