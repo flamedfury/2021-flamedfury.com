@@ -62,6 +62,13 @@ which is fine. however, i don't see a too big of a difference between that and s
 having a personal homepage is awesome, if you don't have one already, get one!
 
 *to be continued*
+
+## read more about the personal, small, open, old web
+
+have a read through the archives of my bookmark folders and pocket reading list. some absolute gems in here of others who share similar thoughts.
+
+{% include "partials/_manifesto-links.njk" %}
+
 <!-- - [how GeoCities webrings made the ‘90s internet a cozier place](https://www.mic.com/p/how-geocities-webrings-made-the-90s-internet-a-cozier-place-19638198)
 - [the ruins of Geocities](http://contemporary-home-computing.org/still-there/geocities.html)
 - [an ode to geocities](https://thehistoryoftheweb.com/an-ode-to-geocities/)
@@ -72,4 +79,4 @@ having a personal homepage is awesome, if you don't have one already, get one!
 
 ***
 
-*last updated 2021-05-24*
+*last updated 2021-05-30*

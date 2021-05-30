@@ -1,0 +1,12 @@
+<ul class="col-2">
+{% for item in links.manifestoSites %}
+{% if item.siteDescription %}
+<li><a href="{{ item.url }}">{{ item.siteName }}</a>
+<ul>
+<li>{{ item.siteDescription }}</li>
+</ul></li>
+{% else %}
+<li><a href="{{ item.url }}">{{ item.siteName }}</a></li>
+{% endif %}
+{% endfor %}
+</ul>

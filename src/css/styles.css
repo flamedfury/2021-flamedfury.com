@@ -305,6 +305,10 @@ hr {
   column-count: 3;
 }
 
+.col-2 {
+  column-count: 2;
+}
+
 /* content flex grid stuff
     jacked from https://www.taniarascia.com/how-to-build-a-responsive-image-gallery-with-flexbox/
 */
