@@ -63,7 +63,7 @@ having a personal homepage is awesome, if you don't have one already, get one!
 
 *to be continued*
 
-## read more about the personal, small, open, old web
+## read more about the personal, small, and open web
 
 have a read through the archives of my bookmark folders and pocket reading list. some absolute gems in here of others who share similar thoughts.
 

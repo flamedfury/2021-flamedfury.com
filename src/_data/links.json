@@ -304,70 +304,100 @@
   ],
   "manifestoSites": [
     {
-      "url": "https://sadgrl.online/newoldweb/manifesto_full.html",
-      "archiveURL": "https://web.archive.org/web/20210530075325/https://sadgrl.online/newoldweb/manifesto_full.html",
+      "siteName": "ten commandments of the small internet",
+      "siteDescription": "a grassroots internet movement called \"the small Internet\" is afoot. here are ten commandments that cheapskates would like to see largely obeyed on the small internet.",
+      "url": "https://cheapskatesguide.org/articles/small-internet.html/",
+      "archiveURL": "https://web.archive.org/web/20201224221219/https://cheapskatesguide.org/articles/small-internet.html/"
+    },
+    {
+      "siteName": "i miss the old internet",
+      "siteDescription": " \"I miss the internet of the early 1990's.\" ",
+      "url": "http://misc-stuff.terraaeon.com/articles/miss-old-internet.html",
+      "archiveURL": "https://web.archive.org/web/20201101102647/http://misc-stuff.terraaeon.com/articles/miss-old-internet.html"
+    },
+    {
+      "siteName": "what i learned about the internet by creating my own website",
+      "siteDescription": "here are some things cheapskates learned about the internet by creating their own website.",
+      "url": "https://cheapskatesguide.org/articles/what-i-learned-about-the-internet.html/",
+      "archiveURL": "https://web.archive.org/web/20210520202453/https://cheapskatesguide.org/articles/what-i-learned-about-the-internet.html"
+    },
+    {
       "siteName": "sadgirl.online internet manifesto",
-      "siteDescription": "we, the people of the internet, have the power to restore it to its former glory."
+      "siteDescription": "we, the people of the internet, have the power to restore it to its former glory.",
+      "url": "https://sadgrl.online/newoldweb/manifesto_full.html",
+      "archiveURL": "https://web.archive.org/web/20210530075325/https://sadgrl.online/newoldweb/manifesto_full.html"
     },
     {
-      "url": "https://september.city/nostalgia/index.html",
-      "archiveURL": "https://web.archive.org/web/20210530080647/https://september.city/nostalgia/index.html",
       "siteName": "nostalgia is bullshit",
-      "siteDescription": "web 1.0 design nostalgia. like all nostalgia, it's bullshit."
+      "siteDescription": "web 1.0 design nostalgia. like all nostalgia, it's bullshit.",
+      "url": "https://september.city/nostalgia/index.html",
+      "archiveURL": "https://web.archive.org/web/20210530080647/https://september.city/nostalgia/index.html"
     },
     {
-      "url": "https://cheapskatesguide.org/articles/why-have-a-personal-website.html/",
-      "archiveURL": "https://web.archive.org/web/20210520202437/https://cheapskatesguide.org/articles/why-have-a-personal-website.html",
       "siteName": "seven reasons for having a personal website",
-      "siteDescription": "there are at least seven reasons you should have a personal website."
+      "siteDescription": "there are at least seven reasons you should have a personal website.",
+      "url": "https://cheapskatesguide.org/articles/why-have-a-personal-website.html/",
+      "archiveURL": "https://web.archive.org/web/20210520202437/https://cheapskatesguide.org/articles/why-have-a-personal-website.html"
     },
     {
-      "url": "https://mxb.dev/blog/the-return-of-the-90s-web/",
-      "archiveURL": "https://web.archive.org/web/20210517233025/https://mxb.dev/blog/the-return-of-the-90s-web/",
       "siteName": "the return of the 90s web",
-      "siteDescription": "in big cultural concepts like music or fashion, things have a way of coming around full circle. "
+      "siteDescription": "in big cultural concepts like music or fashion, things have a way of coming around full circle. ",
+      "url": "https://mxb.dev/blog/the-return-of-the-90s-web/",
+      "archiveURL": "https://web.archive.org/web/20210517233025/https://mxb.dev/blog/the-return-of-the-90s-web/"
     },
     {
-      "url": "https://blog.neocities.org/blog/2013/05/28/making-the-web-fun-again.html",
-      "archiveURL": "https://web.archive.org/web/20210527011313/https://blog.neocities.org/blog/2013/05/28/making-the-web-fun-again.html",
       "siteName": "making the web fun again",
-      "siteDescription": "ever since I visited my first web site (via a slow modem to a library BBS running a text-based web browser), i have been ceaselessly pondering the nature of... "
+      "siteDescription": " \"ever since I visited my first web site (via a slow modem to a library BBS running a text-based web browser), i have been ceaselessly pondering the nature of the web.\" ",
+      "url": "https://blog.neocities.org/blog/2013/05/28/making-the-web-fun-again.html",
+      "archiveURL": "https://web.archive.org/web/20210527011313/https://blog.neocities.org/blog/2013/05/28/making-the-web-fun-again.html"
     },
     {
-      "url": "https://blog.jim-nielsen.com/2020/the-missing-hit-and-the-open-web/",
-      "archiveURL": "https://web.archive.org/web/20210120165010/https://blog.jim-nielsen.com/2020/the-missing-hit-and-the-open-web/",
       "siteName": "the missing hit and the open web",
-      "siteDescription": "if it doesn't appear in google's search results, does it really exist?"
+      "siteDescription": "if it doesn't appear in google's search results, does it really exist?",
+      "url": "https://blog.jim-nielsen.com/2020/the-missing-hit-and-the-open-web/",
+      "archiveURL": "https://web.archive.org/web/20210120165010/https://blog.jim-nielsen.com/2020/the-missing-hit-and-the-open-web/"
     },
     {
-      "url": "https://anildash.com/2017/11/29/underscores-optimization-arms-races/",
-      "archiveURL": "https://web.archive.org/web/20210128094407/https://anildash.com/2017/11/29/underscores-optimization-arms-races/",
       "siteName": "underscores, optimization & arms races",
-      "siteDescription": "a dozen years ago, the web started to reshape itself around major companies like google. we can understand the genesis of today’s algorithmic arms race against the tech titans just by looking at a single character."
+      "siteDescription": "a dozen years ago, the web started to reshape itself around major companies like google. we can understand the genesis of today’s algorithmic arms race against the tech titans just by looking at a single character.",
+      "url": "https://anildash.com/2017/11/29/underscores-optimization-arms-races/",
+      "archiveURL": "https://web.archive.org/web/20210128094407/https://anildash.com/2017/11/29/underscores-optimization-arms-races/"
     },
     {
-      "url": "https://omarabid.com/the-modern-web",
-      "archiveURL": "https://web.archive.org/web/20210123045953/https://omarabid.com/the-modern-web",
       "siteName": "the modern web is becoming an unsuable. user-hostile wasteland",
-      "siteDescription": "the question is: at which point do we reach the breaking point?"
+      "siteDescription": "the question is: at which point do we reach the breaking point?",
+      "url": "https://omarabid.com/the-modern-web",
+      "archiveURL": "https://web.archive.org/web/20210123045953/https://omarabid.com/the-modern-web"
     },
     {
-      "url": "https://www.smashingmagazine.com/2020/08/autonomy-online-indieweb/",
-      "archiveURL": "https://web.archive.org/web/20210515195800/https://www.smashingmagazine.com/2020/08/autonomy-online-indieweb/",
       "siteName": "autonomy online: a case for the indieweb",
-      "siteDescription": "there is an alternative to corporate bubbles online — it’s called the indieweb. build your own personal websites, control your online presence, and learn on your own terms."
+      "siteDescription": "there is an alternative to corporate bubbles online — it’s called the indieweb. build your own personal websites, control your online presence, and learn on your own terms.",
+      "url": "https://www.smashingmagazine.com/2020/08/autonomy-online-indieweb/",
+      "archiveURL": "https://web.archive.org/web/20210515195800/https://www.smashingmagazine.com/2020/08/autonomy-online-indieweb/"
     },
     {
-      "url": "https://sawv.org/2017/07/12/a-simpler-web.html",
-      "archiveURL": "https://web.archive.org/web/20210530082627/https://sawv.org/2017/07/12/a-simpler-web.html",
       "siteName": "a simpler web",
-      "siteDescription": "i prefer websites that are built with simple html, minimal css, and no javascript for read-only web experiences."
+      "siteDescription": " \"i prefer websites that are built with simple html, minimal css, and no javascript for read-only web experiences.\" ",
+      "url": "https://sawv.org/2017/07/12/a-simpler-web.html",
+      "archiveURL": "https://web.archive.org/web/20210530082627/https://sawv.org/2017/07/12/a-simpler-web.html"
     },
     {
-      "url": "https://cheapskatesguide.org/articles/personal-website-hunting.html/",
-      "archiveURL": "https://web.archive.org/web/20210520202502/https://cheapskatesguide.org/articles/personal-website-hunting.html/",
       "siteName": "hunting the nearly-invisible personal website",
-      "siteDescription": "the personal website is a somewhat mysterious animal that lives mostly unobserved in the jungle of the internet"
+      "siteDescription": "the personal website is a somewhat mysterious animal that lives mostly unobserved in the jungle of the internet",
+      "url": "https://cheapskatesguide.org/articles/personal-website-hunting.html/",
+      "archiveURL": "https://web.archive.org/web/20210520202502/https://cheapskatesguide.org/articles/personal-website-hunting.html/"
+    },
+    {
+      "siteName": "zeronet and the future of the internet",
+      "siteDescription": "until recently, the conventional wisdom was that the internet is beyond the control of governments. how naive the conventional wisdom sometimes is. ",
+      "url": "https://cheapskatesguide.org/articles/zeronet.html/",
+      "archiveURL": "https://web.archive.org/web/20210224002113/https://cheapskatesguide.org/articles/zeronet.html/"
+    },
+    {
+      "siteName": "tell hn: i miss the old internet",
+      "siteDescription": " \"this is more of a rant i guess. hackernews provides a text box, that's close enough for me.\" ",
+      "url": "https://news.ycombinator.com/item?id=17334552",
+      "archiveURL": "https://web.archive.org/web/20201109031049/https://news.ycombinator.com/item?id=17334552"
     }
   ]
 }

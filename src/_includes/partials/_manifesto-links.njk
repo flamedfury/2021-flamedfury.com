@@ -1,12 +1,16 @@
-<ul class="col-2">
+<!-- _includes/_manifesto-links.njk -->
+<div class="container">
+<div class="grid">
 {% for item in links.manifestoSites %}
 {% if item.siteDescription %}
-<li><a href="{{ item.url }}">{{ item.siteName }}</a>
-<ul>
-<li>{{ item.siteDescription }}</li>
-</ul></li>
+<div class="cell">
+<a href="{{ item.url }}">{{ item.siteName }}</a>: {{ item.siteDescription }}
+</div>
 {% else %}
-<li><a href="{{ item.url }}">{{ item.siteName }}</a></li>
+<div class="cell">
+<a href="{{ item.url }}">{{ item.siteName }}</a>
+</div>
 {% endif %}
 {% endfor %}
-</ul>
+</div>
+</div>
