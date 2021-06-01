@@ -1,5 +1,6 @@
 const { exec } = require('child_process');
 const syntaxHighlight = require("@11ty/eleventy-plugin-syntaxhighlight");
+const pluginDate = require("eleventy-plugin-date");
 
 module.exports = function(eleventyConfig) {
 
@@ -10,6 +11,7 @@ module.exports = function(eleventyConfig) {
 
   /* --- plugins --- */
   eleventyConfig.addNunjucksFilter("limit", (arr, limit) => arr.slice(0, limit));
+  eleventyConfig.addPlugin(pluginDate);
 
   // navigation
   eleventyConfig.addPlugin( require('@11ty/eleventy-navigation') );

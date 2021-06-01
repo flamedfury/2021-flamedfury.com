@@ -1,0 +1,6 @@
+<!-- _includes/_addicted-to-crit.njk -->
+<ul>
+{% for post in collections.addictedtocrit | reverse %}
+<li><a href="{{ post.url | url }}">{{ post.data.title }}</a> | {{ post.date | readableDate }}</li>
+{% endfor %}
+</ul>

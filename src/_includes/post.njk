@@ -1,0 +1,21 @@
+{% extends "page.njk" %}
+
+{% block content %}
+
+  <h1>{{ title }}</h1>
+
+  {% if date %}<p><time datetime="{{ date }}">{{ date | readableDate }}</time>{% endif %}, {{ content | wordcount }} words.</p>
+
+  <article>{{ content | safe}}</article>
+
+  <hr>
+
+  {% set nextPost = collections.addictedtocrit | getNextCollectionItem(page) %}
+  {% if nextPost %}<p>next article: <a href="{{ nextPost.url }}">{{ nextPost.data.title }}</a></p>{% endif %}
+
+  {% set previousPost = collections.addictedtocrit | getPreviousCollectionItem(page) %}
+  {% if previousPost %}<p>previous article: <a href="{{ previousPost.url }}">{{ previousPost.data.title }}</a></p>{% endif %}
+
+ <p>back: <a href="../addicted-to-crit.html">addicted to crit archives</a></p>
+
+{% endblock %}
