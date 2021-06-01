@@ -9,3 +9,5 @@ public
 
 # api cache things
 .cache
+
+src/img/comicrack/*
