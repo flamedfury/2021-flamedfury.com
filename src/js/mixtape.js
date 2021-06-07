@@ -2,10 +2,10 @@ var audio;
 
 //hide pause initially
 $('#pause').hide();
-	
+
 //initializer - plays first song
 initAudio($('#playlist li:first-child'));
-	
+
 function initAudio(element){
 	var song = element.attr('song');
     var title = element.text();
@@ -14,17 +14,17 @@ function initAudio(element){
 
 	//Create a New Audio Object
 	audio = new Audio('media/' + song);
-	
+
 	if(!audio.currentTime){
 		$('#duration').html('0:00');
 	}
 
 	$('#audio-player .title').text(title);
     $('#audio-player .artist').text(artist);
-	
+
 	//insert mixtape cover image
 	$('img.cover').attr('src','../img/mixtape/covers/' + cover);
-	
+
 	$('#playlist li').removeClass('active');
     element.addClass('active');
 }
@@ -95,7 +95,7 @@ $('#playlist li').click(function () {
 $('#volume').change(function(){
 	audio.volume = parseFloat(this.value / 10);
 });
-	
+
 //time duration
 function showDuration(){
 	$(audio).bind('timeupdate', function(){
@@ -106,7 +106,7 @@ function showDuration(){
 		if (s < 10) {
 			s = '0' + s;
 		}
-		$('#duration').html(m + ':' + s);	
+		$('#duration').html(m + ':' + s);
 		var value = 0;
 		if (audio.currentTime > 0) {
 			value = Math.floor((100 / audio.duration) * audio.currentTime * 0.8);

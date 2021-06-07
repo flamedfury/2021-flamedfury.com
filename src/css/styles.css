@@ -297,10 +297,36 @@ hr {
   padding: 32px 0 0 0;
 }
 
-.webring-css {
+.webring-container {
+  max-width: 50em;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* desktop */
+@media screen and (min-width: 1000px) {
+  .webring-container {
+    width: calc(60% - 2rem);
+  }
+}
+
+.webring {
+  border: 2px solid var(--pink2);
+  padding: 0 16px;
+  margin-bottom: 16px;
+}
+
+.webring-flex {
+  padding: 16px 0;
+  margin-top: auto;
   display: flex;
-  justify-content: center;
-  padding: 32px;
+  align-content: space-between;
+  justify-content: space-between;
+}
+
+.webring-heading,
+.ring {
+  text-align: center !important;
 }
 
 .buttons {
