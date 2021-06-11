@@ -17,7 +17,9 @@ this homepage is being constructed in public, it is constantly under constructio
 
 i chose [neocities](https://neocities.org) as my homepage host to step away from the corporate web and to not be surrounded by likes, shares, claps, stars, retweets, or whatevers.
 
-i love the internet, but not all things about the internet, you can read more over on my [about page](about.html). if you want to dive deeper, check out [my memoirs](memoirs.html) which detail my earliet memories of getting online and surfing the web.
+i love the internet, [but not all things about the internet](manifesto.html), you can read more over on my [about page](about.html). if you want to dive deeper, check out [my memoirs](memoirs.html) which detail my earliet memories of getting online and surfing the web and my [web manifesto](manifesto.html) where i share  my thoughts on the web.
+
+if you've enjoyed your time here, please leave a message in [my guestbook](https://guestbook.flamedfury.com).
 
 ---
 

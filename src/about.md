@@ -28,8 +28,10 @@ my family is my biggest interest, among all the things listed above, my wife and
 
 ## about my homepage
 
-- coded by hand
-- generated with eleventy
+- coded by hand in visual studio code
+- a mix of html, css, markdown and nunchucks
+- built with eleventy
+- deployed with github
 - hosted on neocities
 
 please read my [statement of audience](about/statement-of-audience.html).
