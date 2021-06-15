@@ -51,6 +51,15 @@ the medium of choice on the personal web is the personal homepage. with our own 
 
 we can decide what goes where and don't care if it's beautiful or a beautiful mess.
 
+## the simple web
+do you remember when you went to search the web for something, and you would often come across personal homepages, usually dedicated to a single topic, [link="a75e3eeb-8ae8-401f-a442-d8ac5de5aa00"], created by people who absolutely loved the topic?
+
+these days web search results are full of low quality seo'd pages full of adverts, that are not related to what you wear searching for at all. all the old high quality info sites are either non existent, lost to search algorithms as they've not been updated in a number of years, do not support https, or the valuable information is stuffed in between a useless 23 minute video!
+
+i can't stand the videos either. they're usually long drawn out introductions, irrelevant stories about absolutely nothing, don't forget to check out our sponsor, who also sponsors every other video creator, and then if you're lucky, a couple words about the topic you were after that could have easily been communicated in a simple page of text. the videos are drawn out and created to be a certain length so that they can, monetise the videos...
+
+don't forget to like and subscribe though!
+
 ## the commercial web
 the web today, social media is easy and people are lazy, or they don't know what more the web can offer them.
 
