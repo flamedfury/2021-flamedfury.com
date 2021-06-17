@@ -300,6 +300,11 @@
       "url": "https://bandcamp.com/",
       "siteName": "bandcamp",
       "siteDescription": "an online record store and music community for fans to discover, connect with, and directly support the artists making awesome music."
+    },
+    {
+      "url": "https://abookapart.com/",
+      "siteName": "a book apart",
+      "siteDescription": "brief books for people who design, write, and code. have been a fan of this crowd ever since first stumbling upon a list apart way back when. these books are fantastic if you're into writing, designing or coding!"
     }
   ],
   "manifestoSites": [
@@ -576,7 +581,30 @@
       "siteDescription": "OP comes to the realisation that the Internet has become boring and commercialised. Sparks an interesting conversation.",
       "url": "https://www.sffworld.com/forum/threads/i-miss-the-old-internet.57195/",
       "archiveURL": "https://web.archive.org/web/20210614100357/https://www.sffworld.com/forum/threads/i-miss-the-old-internet.57195/"
+    },
+    {
+      "siteName": "A love letter to my webstie",
+      "siteDescription": "A declaration of love for personal websites.",
+      "url": "https://vanschneider.com/blog/portfolio-tips/a-love-letter-to-personal-websites/",
+      "archiveURL": "https://web.archive.org/web/20210507173151/https://vanschneider.com/blog/portfolio-tips/a-love-letter-to-personal-websites/"
+    },
+    {
+      "siteName": "How GeoCities webrings made the ‘90s internet a cozier place",
+      "siteDescription": "Believe it or not, the internet used to feel a lot cozier. In the early days of the World Wide Web, as many of us called it back then, going online was like exploring the Wild West...",
+      "url": "https://www.mic.com/p/how-geocities-webrings-made-the-90s-internet-a-cozier-place-19638198",
+      "archiveURL": "https://web.archive.org/web/20210321035449/https://www.mic.com/p/how-geocities-webrings-made-the-90s-internet-a-cozier-place-19638198"
+    },
+    {
+      "siteName": "Ruins and Templates of Geocities",
+      "siteDescription": "The free web hosting service GeoCities was founded by Beverly Hills Internet in July 1995, which exactly corresponds with the moment that the web left academia and started to become accessible to everyone. Users began learning Hyper Text Markup Language, and welcomed each other onto their “home pages” — the first personal websites.",
+      "url": "http://contemporary-home-computing.org/still-there/geocities.html",
+      "archiveURL": "https://web.archive.org/web/20210401050811/http://contemporary-home-computing.org/still-there/geocities.html"
+    },
+    {
+      "siteName": " An Ode to Geocities ",
+      "siteDescription": "Geocities is likely a site you’ve heard of. It may even have been a site that you used. It’s origin, and the movement it later inspired, is an incredible story of self-expression and serendipity.",
+      "url": "https://thehistoryoftheweb.com/an-ode-to-geocities/",
+      "archiveURL": "https://web.archive.org/web/20210512180551/https://thehistoryoftheweb.com/an-ode-to-geocities/"
     }
   ]
 }
-

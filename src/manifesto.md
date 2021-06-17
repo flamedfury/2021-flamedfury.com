@@ -5,6 +5,8 @@ layout: page
 permalink:  "{{ page.filePathStem }}.html"
 ---
 
+the following are my raw and unedited thoughts spread over a number of weeks. i add these to the page as i think them through, usually while walking my dogs. once i get to the point where i have shared all my feelings on the subject i will attempt to put some order into the chaos.
+
 ![under construction](https://images.ctfassets.net/b1prsa2j7p70/6HHQrnHTUvOCjxQgJfZR70/3ac0f9d54bdbab88b5cd7c23250c60e4/HeHeartlandPark9227gifconstructionwomen_at_work.gif?h=250#center)
 
 the internet used to be a huge place. netizens filled their time writing email, visiting forums, making websites, chatting on irc. they filled their bookmarks folder in their browsers with hundreds of places they enjoyed to visit across the web.
@@ -52,7 +54,7 @@ the medium of choice on the personal web is the personal homepage. with our own 
 we can decide what goes where and don't care if it's beautiful or a beautiful mess.
 
 ## the simple web
-do you remember when you went to search the web for something, and you would often come across personal homepages, usually dedicated to a single topic, [link="a75e3eeb-8ae8-401f-a442-d8ac5de5aa00"], created by people who absolutely loved the topic?
+do you remember when you went to search the web for something, and you would often come across personal homepages, usually dedicated to a single topic, [full of high quality information](https://sheldonbrown.com/), created by people who absolutely loved the topic?
 
 these days web search results are full of low quality seo'd pages full of adverts, that are not related to what you wear searching for at all. all the old high quality info sites are either non existent, lost to search algorithms as they've not been updated in a number of years, do not support https, or the valuable information is stuffed in between a useless 23 minute video!
 
@@ -67,6 +69,20 @@ for the most part, facebook, twitter, instagram all make it very easy to share w
 
 which is fine. however, i don't see a too big of a difference between that and sharing the same stuff on your own personal home page, where you get to **own your own content**, except that the setup experience requires a few more steps than mindlessly entering every single piece of personal information.
 
+not absolutely everything has to be monetised, hobbies can be just that, hobbies, making and sharing something doesn't need affiliate links, sponsored posts or targeted ads.
+
+rss exists to follow those that you are interested in. however, again the setup experience rules out a lot of people who are either lazy, or don't care, want things handed to them (what's a little bit of my privacy worth for the convenience).
+
+now, shitposts, hateposts aside, there is so much awesome content lost amongst the crap on the above platforms. like super awesome bbq tutorials stuck inside a facebook group, or super awesome info posts lost forever in someones instagram stories. outside of these platforms they're  undiscoverable! even within the platforms they're  undiscoverable as unless you saw the content the day it was posted its mostly lost forever in a stream of endless crap.
+
+similar vein with blogs where the chronological post order came into play. it in the most part signified that anything dated old was no irrelevant.
+
+our own homepages where we do have some content that is dated for various reasons isn't a big deal due to the way we are able to organise, curate and bring attention to particular pages.
+
+i think the discoverability aspect of the web was lost during the time where blogs became means of monetisation as well as people no longer linked other blogs of similar topics as they were now the competition competing for those page views for the measly adsense cents per view.
+
+i loved linking all my web friends sites from my own back in the day, that formed a sense of community within the communities for what ever topic your page was about that particular month.
+
 ## final thought
 having a personal homepage is awesome, if you don't have one already, get one!
 
@@ -78,13 +94,12 @@ have a read through the archives of my bookmark folders and pocket reading list.
 
 {% include "partials/_manifesto-links.njk" %}
 
-<!-- - [how GeoCities webrings made the ‘90s internet a cozier place](https://www.mic.com/p/how-geocities-webrings-made-the-90s-internet-a-cozier-place-19638198)
+<!--
 - [the ruins of Geocities](http://contemporary-home-computing.org/still-there/geocities.html)
 - [an ode to geocities](https://thehistoryoftheweb.com/an-ode-to-geocities/)
 - [one terabyte of kilobyte age](https://blog.geocities.institute/)
 - [The early internet is breaking - here’s how the World Wide Web from the 90s on will be saved](https://www.youtube.com/watch?v=2LzyRcLJdlg)
 - [end-to-end, p2p, my to me](https://www.youtube.com/watch?v=eHyn3sKNdA8)
-- [a love letter to my webstie] (https://vanschneider.com/blog/portfolio-tips/a-love-letter-to-personal-websites/) -->
 
 ***
 
