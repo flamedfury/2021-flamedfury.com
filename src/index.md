@@ -30,11 +30,11 @@ the true spirit of the web is hyperlinking to all of the interesting homepages a
 ### link to me
 you can link to my homepage with my cool 88x31 button, grab the code below!
 
-![flamedfury 88x31 link button](../img/fury.gif#center "visit flamedfury now!")
+![flamedfury 88x31 link button](../img/flamedfurybutton.gif#center "visit flamedfury now!")
 
 ``` html
 <a href="https://flamedfury.com/">
-    <img src="https://flamedfury.com/img/fury.gif" alt="visit flamedfury now!" />
+    <img src="https://flamedfury.com/img/flamedfurybutton.gif" alt="visit flamedfury now!" />
 </a>
 ```
 

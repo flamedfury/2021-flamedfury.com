@@ -1,7 +1,7 @@
 <!-- _includes/_manifesto-links.njk -->
 <div class="container">
 <div class="grid">
-{% for item in links.manifestoSites %}
+{% for item in links_manifesto.manifestoSites %}
 {% if item.siteDescription %}
 <div class="cell">
 <a href="{{ item.url }}">{{ item.siteName }}</a>: {{ item.siteDescription }}

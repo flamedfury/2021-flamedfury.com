@@ -1,0 +1,34 @@
+{
+    "friends": [
+      {
+        "site": "grafo volaverunt",
+        "url": "https://grafovolaverunt.xyz",
+        "image": "../img/buttonwall/grafobutton.gif"
+	  },
+	  {
+        "site": "ocean waves",
+        "url": "https://ocean-waves.xyz/",
+        "image": "../img/buttonwall/oceanwavesbeach.gif"
+	  },
+	  {
+        "site": "cinni's dream home",
+        "url": "https://cinni.net/",
+        "image": "../img/buttonwall/cinni_angelbutton3.gif"
+	  },
+	  {
+        "site": "queen of the interweb",
+        "url": "https://sadgrl.online/",
+        "image": "../img/buttonwall/sadgrl.gif"
+	  },
+	  {
+        "site": "teddybear halo",
+        "url": "https://teddybear-halo.neocities.org/",
+        "image": "../img/buttonwall/teddybearhalo.gif"
+	  },
+	  {
+        "site": "let's learn together",
+        "url": "https://letslearntogether.neocities.org",
+        "image": "../img/buttonwall/ltt.png"
+	  }
+	]
+}

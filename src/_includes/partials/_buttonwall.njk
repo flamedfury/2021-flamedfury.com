@@ -1,38 +1,7 @@
 <p class="button-wall">
-<img src="../img/fury.gif" width="88" height="31" alt="flamedfury.com">
-<img src="../img/flamedfury.gif" width="88" height="31" alt="flamedfury.com">
-<img src="../img/flamedfury2.gif" width="88" height="31" alt="flamedfury.com">
-<img src="../img/fury.gif" width="88" height="31" alt="flamedfury.com">
-<img src="../img/flamedfury.gif" width="88" height="31" alt="flamedfury.com">
-<img src="../img/flamedfury2.gif" width="88" height="31" alt="flamedfury.com">
-<img src="../img/fury.gif" width="88" height="31" alt="flamedfury.com">
-<img src="../img/flamedfury.gif" width="88" height="31" alt="flamedfury.com">
-<img src="../img/flamedfury2.gif" width="88" height="31" alt="flamedfury.com">
-<img src="../img/fury.gif" width="88" height="31" alt="flamedfury.com">
-<img src="../img/flamedfury.gif" width="88" height="31" alt="flamedfury.com">
-<img src="../img/flamedfury2.gif" width="88" height="31" alt="flamedfury.com">
-<img src="../img/fury.gif" width="88" height="31" alt="flamedfury.com">
-<img src="../img/flamedfury.gif" width="88" height="31" alt="flamedfury.com">
-<img src="../img/flamedfury2.gif" width="88" height="31" alt="flamedfury.com">
-<img src="../img/fury.gif" width="88" height="31" alt="flamedfury.com">
-<img src="../img/flamedfury.gif" width="88" height="31" alt="flamedfury.com">
-<img src="../img/flamedfury2.gif" width="88" height="31" alt="flamedfury.com">
-<img src="../img/fury.gif" width="88" height="31" alt="flamedfury.com">
-<img src="../img/flamedfury.gif" width="88" height="31" alt="flamedfury.com">
-<img src="../img/flamedfury2.gif" width="88" height="31" alt="flamedfury.com">
-<img src="../img/fury.gif" width="88" height="31" alt="flamedfury.com">
-<img src="../img/flamedfury.gif" width="88" height="31" alt="flamedfury.com">
-<img src="../img/flamedfury2.gif" width="88" height="31" alt="flamedfury.com">
-<img src="../img/fury.gif" width="88" height="31" alt="flamedfury.com">
-<img src="../img/flamedfury.gif" width="88" height="31" alt="flamedfury.com">
-<img src="../img/flamedfury2.gif" width="88" height="31" alt="flamedfury.com">
-<img src="../img/fury.gif" width="88" height="31" alt="flamedfury.com">
-<img src="../img/flamedfury.gif" width="88" height="31" alt="flamedfury.com">
-<img src="../img/flamedfury2.gif" width="88" height="31" alt="flamedfury.com">
-<img src="../img/fury.gif" width="88" height="31" alt="flamedfury.com">
-<img src="../img/flamedfury.gif" width="88" height="31" alt="flamedfury.com">
-<img src="../img/flamedfury2.gif" width="88" height="31" alt="flamedfury.com">
-<img src="../img/fury.gif" width="88" height="31" alt="flamedfury.com">
-<img src="../img/flamedfury.gif" width="88" height="31" alt="flamedfury.com">
-<img src="../img/flamedfury2.gif" width="88" height="31" alt="flamedfury.com">
+{% for item in buttons.friends %}
+<a href="{{ item.url }}" target="_blank">
+<img src="{{ item.image }}" alt="{{ item.site }}"  title="{{ item.site }}" />
+</a>
+{% endfor %}
 <p>

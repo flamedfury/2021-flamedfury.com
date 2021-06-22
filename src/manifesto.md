@@ -94,13 +94,6 @@ have a read through the archives of my bookmark folders and pocket reading list.
 
 {% include "partials/_manifesto-links.njk" %}
 
-<!--
-- [the ruins of Geocities](http://contemporary-home-computing.org/still-there/geocities.html)
-- [an ode to geocities](https://thehistoryoftheweb.com/an-ode-to-geocities/)
-- [one terabyte of kilobyte age](https://blog.geocities.institute/)
-- [The early internet is breaking - here’s how the World Wide Web from the 90s on will be saved](https://www.youtube.com/watch?v=2LzyRcLJdlg)
-- [end-to-end, p2p, my to me](https://www.youtube.com/watch?v=eHyn3sKNdA8)
-
 ***
 
-*last updated 2021-06-05*
+*last updated 2021-06-22*
