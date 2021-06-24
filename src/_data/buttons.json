@@ -29,6 +29,16 @@
         "site": "let's learn together",
         "url": "https://letslearntogether.neocities.org",
         "image": "../img/buttonwall/ltt.png"
+	  },
+    {
+        "site": "tonic funk",
+        "url": "https://tonicfunk.neocities.org",
+        "image": "../img/buttonwall/tonicfunk.gif"
+	  },
+    {
+        "site": "Just Fluffing Around",
+        "url": "https://justfluffingaround.neocities.org",
+        "image": "../img/buttonwall/justfluffingaroundbutton.png"
 	  }
 	]
 }
