@@ -44,6 +44,11 @@
         "site": "cyote's pages",
         "url": "https://openbooks.neocities.org/homes/coyote/",
         "image": "../img/buttonwall/coyotepages.gif"
+	  },
+    {
+        "site": "bytemoth's brook",
+        "url": "https://bytemoth.neocities.org/",
+        "image": "../img/buttonwall/i-brook.png"
 	  }
 	]
 }

@@ -272,6 +272,11 @@
   ],
   "coolSites": [
     {
+      "url": "https://news.ycombinator.com/",
+      "siteName": "hacker news",
+      "siteDescription": "keep up to date with interesting things happening across the web and wider internet."
+    },
+    {
       "url": "https://discogs.com",
       "siteName": "discogs",
       "siteDescription": "album information, largest music database online. huge market place for music reselling, love it for tracking down vinyl."
