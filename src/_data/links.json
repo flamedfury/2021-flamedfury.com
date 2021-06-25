@@ -282,24 +282,24 @@
       "siteDescription": "huge lyrics database. used to be just rap music, but now offers all genres. use it for checking out what the actualy lyrics are after singing something completely wrong for days after listening to a song."
     },
     {
-      "url": "https://imdb.com",
-      "siteName": "imdb",
-      "siteDescription": "have used imdb for decades to check out movie infomation, cross reference actresses and check to see if that was actually them in that movie."
+      "url": "https://bandcamp.com/",
+      "siteName": "bandcamp",
+      "siteDescription": "an online record store and music community for fans to discover, connect with, and directly support the artists making awesome music."
+    },
+    {
+      "url": "https://themoviedb.org/",
+      "siteName": "the movie database (tmdb)",
+      "siteDescription": "the movie database (tmbd) is a community built movie and television database. this website has superseded the usefulness of the imdb for me. allows users to sign up, contribute data and track what they've watched."
+    },
+    {
+      "url": "https://www.thetvdb.com/",
+      "siteName": "the TVDB",
+      "siteDescription": "another community driven television and movie database. great alternative for the movie database. full of great user curated lists of various movies and television shows."
     },
     {
       "url": "https://fandom.com",
       "siteName": "fandom",
       "siteDescription": "huge database of pop culture."
-    },
-    {
-      "url": "https://themoviedb.org/",
-      "siteName": "tmdb",
-      "siteDescription": "movie and television meta data."
-    },
-    {
-      "url": "https://bandcamp.com/",
-      "siteName": "bandcamp",
-      "siteDescription": "an online record store and music community for fans to discover, connect with, and directly support the artists making awesome music."
     },
     {
       "url": "https://abookapart.com/",
