@@ -39,6 +39,11 @@
         "site": "Just Fluffing Around",
         "url": "https://justfluffingaround.neocities.org",
         "image": "../img/buttonwall/justfluffingaroundbutton.png"
+	  },
+    {
+        "site": "cyote's pages",
+        "url": "https://openbooks.neocities.org/homes/coyote/",
+        "image": "../img/buttonwall/coyotepages.gif"
 	  }
 	]
 }
