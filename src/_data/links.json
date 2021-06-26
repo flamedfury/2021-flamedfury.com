@@ -1,276 +1,5 @@
 {
-  "neofriends": [
-    {
-      "owner": "sadness",
-      "url": "https://sadgrl.online/",
-      "siteName": "the website of sadgrl",
-      "siteDescription": "my favourite is reading through sadgrls manifesto and new old web pages. sadgrl has a bunch of fun projects on the go so be sure to check them out. a fun site to explore and get lost in."
-    },
-    {
-      "owner": "teddie",
-      "url": "https://teddybear-halo.neocities.org/",
-      "siteName": "step inside the dream",
-      "siteDescription": "a whimsical collection of shrines, dreams and other nostalgic stuff. my favourite is to read the meomoirs which recount memories of a web of yesterday."
-    },
-    {
-      "owner": "cinderpeach",
-      "url": "https://blissnet.neocities.org",
-      "siteName": "bliss-net",
-      "siteDescription": "a wonderfully crafted homepage full of flashing glittery graphics."
-    },
-    {
-      "owner": "cinni",
-      "url": "https://cinni.net/",
-      "siteName": "cinni's dream home",
-      "siteDescription": "another whimsically styled homepage with shrines, graphics, and other web goodies to explore and download."
-    },
-    {
-      "owner": "grafo",
-      "url": "https://grafovolaverunt.xyz/",
-      "siteName": "grafo volaverunt",
-      "siteDescription": "self described symphonic metal & midi romance. packed full of homemade music and short stories to explore."
-    },
-    {
-      "owner": "eris",
-      "url": "https://contradiction.neocities.org",
-      "siteName": "one devides into two",
-      "siteDescription": "complete with an esoteric design, a homepage full of poems, original graphics and essasy."
-    },
-    {
-      "owner": "lulu",
-      "url": "https://lu.tiny-universes.net/index2.html/",
-      "siteName": "lulu in cyberspace!",
-      "siteDescription": "cleverly put together! love the punk show bathrooms page."
-    }
-  ],
-  "ownWeb": [
-    {
-      "author": "victoriadrake",
-      "url": "https://victoria.dev/blog/make-your-own-independent-website/",
-      "archiveLink": "https://web.archive.org/web/20210207190640/https://victoria.dev/blog/make-your-own-independent-website/",
-      "siteName": "make your own independent website",
-      "siteDescription": "victoria explores the joys of creating your own personal website."
-    },
-    {
-      "author": "",
-      "url": "https://internethomesteading.com/",
-      "archiveLink": "",
-      "siteName": "internet homesteading",
-      "siteDescription": "this page is part of an online course run through the hyperlink acadamy. displayed here are the results of the participants lovingly hand crafted projects from the course. some interesting sites to explore."
-    }
-  ],
-  "interestingArticles": [
-    {
-      "author": "Pop Punk & Linguistics",
-      "url": "https://www.atlasobscura.com/articles/i-made-a-linguistics-professor-listen-to-a-blink-182-song-and-analyze-the-accent/",
-      "archiveLink": "https://web.archive.org/",
-      "siteName": "Pop Punk & Linguistics",
-      "siteDescription": "a  linguistics professors analysis of the american pop punk accent. great read."
-    },
-    {
-      "author": "The Rise & Fall of Internet Art Communities",
-      "url": "https://www.artsy.net/article/artsy-editorial-rise-fall-internet-art-communities/",
-      "archiveLink": "https://web.archive.org/web/20201101002236/https://www.artsy.net/article/artsy-editorial-rise-fall-internet-art-communities/",
-      "siteName": "The Rise & Fall of Internet Art Communities",
-      "siteDescription": "a deep dive into the rise and fall of art communities of the early web."
-    },
-    {
-      "author": "david siegel",
-      "url": "https://www.xml.com/pub/a/w3j/s1.people.html",
-      "archiveLink": "https://web.archive.org/web/20010330013456/https://www.xml.com/pub/a/w3j/s1.people.html",
-      "siteName": "the web is ruined and i ruined it",
-      "siteDescription": "a very deep dive into a time in the 90s where the web changed for better or worse. read it and decided for yourself."
-    }
-  ],
-  "digitalGardens": [
-    {
-      "author": "Tanya Basu",
-      "url": "https://www.technologyreview.com/2020/09/03/1007716/digital-gardens-let-you-cultivate-your-own-little-bit-of-the-internet/",
-      "archiveLink": "https://web.archive.org/",
-      "siteName": "Digital gardens let you cultivate your own little bit of the internet",
-      "siteDescription": "a look into people who are creating and cultivating their own digital gardens online."
-    },
-    {
-      "author": "Joel Hooks",
-      "url": "https://joelhooks.com/digital-garden",
-      "archiveLink": "https://web.archive.org/web/20210126040328/https://joelhooks.com/digital-garden",
-      "siteName": "my blog is a digital garden, not a blog",
-      "siteDescription": "joel takes us through how his blog is not in fact a blog, but a digital garden. it's different. really."
-    },
-    {
-      "author": "Maggie Appleton",
-      "url": "https://github.com/MaggieAppleton/digital-gardeners",
-      "archiveLink": "https://web.archive.org/web/20210309184600/https://github.com/MaggieAppleton/digital-gardeners",
-      "siteName": "digital gardening",
-      "siteDescription": "maggie has put together a great collection of gardeners who are publicly tending theri digital notes on the interwebs. also has a great number of digital garden resources"
-    },
-    {
-      "author": "Tom Critchlow",
-      "url": "https://tomcritchlow.com/blogchains/digital-gardens/",
-      "archiveLink": "https://web.archive.org/web/20201129110029/https://tomcritchlow.com/blogchains/digital-gardens/",
-      "siteName": "digital gardens",
-      "siteDescription": "tom takes us through the his thoughts and process for building personal wikis to tend to personal knowledge"
-    },
-    {
-      "author": "Chris Aldrich",
-      "url": "https://boffosocko.com/tag/wikis/",
-      "archiveLink": "https://web.archive.org/web/20210118071628/https://boffosocko.com/tag/wikis/",
-      "siteName": "boffo socko wikis",
-      "siteDescription": "list of all wiki related posts, have not explored all of them yet."
-    },
-    {
-      "author": "rosie campbell",
-      "url": "https://publish.obsidian.md/rosie/Welcome",
-      "archiveLink": "",
-      "siteName": "rosie campbell digital garden",
-      "siteDescription": "rosie uses obsidian publish to create her digital garden. public notes and knowledge base featuring articles, quotes, advice and recipes."
-    },
-    {
-      "author": "",
-      "url": "",
-      "archiveLink": "",
-      "siteName": "",
-      "siteDescription": ""
-    }
-  ],
-  "linkDirectories": [
-    {
-      "author": "kicks",
-      "url": "https://href.cool/",
-      "archiveLink": "",
-      "siteName": "href.cool",
-      "siteDescription": "the final heartbeats of our beloved www. a hand curated list of links in the style of old yahoo. lots of interesting homepages to get lost in."
-    },
-    {
-      "author": "",
-      "url": "https://smoothsailing.asclaria.org/",
-      "archiveLink": "",
-      "siteName": "smooth sailing",
-      "siteDescription": "a web directory and listing for all kinds of websites"
-    }, 
-    {
-      "author": "",
-      "url": "https://weirdwidewebring.net/",
-      "archiveLink": "",
-      "siteName": "weird wide webring",
-      "siteDescription": "not quite a link directory, however it is a great little collection of interesting links to mostly personal homepages."
-    },
-    {
-      "author": "",
-      "url": "https://archiveofourown.org/",
-      "archiveLink": "",
-      "siteName": "archive of our own",
-      "siteDescription": "an archive featuring a huge collection of fandom type content. i don't even know where to begin with this one."
-    },
-    {
-      "author": "",
-      "url": "https://webring.xxiivv.com/",
-      "archiveLink": "",
-      "siteName": "xxiivv webring",
-      "siteDescription": "a webring collecting hand-crafted wikis and portfolios. designer, developer focused. 157 listens with some gems in there."
-    },
-    {
-      "author": "",
-      "url": "https://webring.xxiivv.com/",
-      "archiveLink": "",
-      "siteName": "webring",
-      "siteDescription": "a webring collecting hand-crafted wikis and portfolios. designer, developer focused. 157 listings with some gems in there."
-    },
-    {
-      "author": "john december",
-      "url": "https://www.december.com/",
-      "archiveLink": "",
-      "siteName": "december communications, inc",
-      "siteDescription": "a rather large, long running, website. includes a hand curated (i think) web directory. wow. so many links to all corners of the world wide web. let me know if you find anything awesome in there."
-    },
-    {
-      "author": "",
-      "url": "https://gossipsweb.net/",
-      "archiveLink": "",
-      "siteName": "gossip's web",
-      "siteDescription": "a decent directory of handmade webpages. some really interesting and clever pages in there."
-    },
-    {
-      "author": "waylon531",
-      "url": "https://terra.finzdani.net/",
-      "archiveLink": "",
-      "siteName": "terra",
-      "siteDescription": "a decently sized directory with like 98 categories? so many pages to explore!"
-    }
-  ],
-  "webLogs": [
-    {
-      "author": "",
-      "url": "",
-      "archiveLink": "",
-      "siteName": "",
-      "siteDescription": ""
-    },
-    {
-      "author": "laura kalbag",
-      "url": "https://laurakalbag.com/",
-      "archiveLink": "",
-      "siteName": "laura kalbag",
-      "siteDescription": "laura is a designer who has published a book covering accessibility. she is one part of the small tech foundation. her blog is full of some great interesting stuff."
-    },
-    {
-      "author": "patrick collison",
-      "url": "https://patrickcollison.com/",
-      "archiveLink": "",
-      "siteName": "patrick collison",
-      "siteDescription": "really simple blog with an interesting range topics making up the content. patrick is very thoughtful. not your typical dev blog..."
-    },
-    {
-      "author": "sirodoht",
-      "url": "https://sirodoht.com/",
-      "archiveLink": "",
-      "siteName": "sirodoht blog",
-      "siteDescription": "a few interesting articles, the most interesting to me was the one on ideal blog platforms and the other on the mataroa webring. materoa seems to be a simple blogging engine the author has created."
-    },
-    {
-      "author": "scott hanselman",
-      "url": "https://hanselman.com/",
-      "archiveLink": "",
-      "siteName": "scott hanselman",
-      "siteDescription": "looks like an old blogger template. lots of great articles on various topics. i enjoy their yearly developer and power user tool lists."
-    },
-    {
-      "author": "elliot",
-      "url": "https://elliott.computer/",
-      "archiveLink": "",
-      "siteName": "elliot's computer",
-      "siteDescription": "a really interesting wild take on how to hand craft your homepage!"
-    },
-    {
-      "author": "dima",
-      "url": "https://kabardinovd.com",
-      "archiveLink": "",
-      "siteName": "static/blog",
-      "siteDescription": "a few posts on various developer things. my fav was the 10 things i've learned while building this website, touches on some 11ty topics"
-    },
-    {
-      "author": "tom hackshaw",
-      "url": "https://tom.so",
-      "archiveLink": "",
-      "siteName": "tom hackshaw",
-      "siteDescription": "not sure if i should categorise this one as a blog as it's so much more. a manifesto (which is awesome by the way), a living wiki, a bookshelf (yay) as well as a blog."
-    },
-    {
-      "author":"dennis mai",
-      "url": "https://www.dennismai.dev/",
-      "archiveLink": "",
-      "siteName": "dennis mai",
-      "siteDescription": "a nice looking website where dennis shares a bunch of his projects, webrings and a selection of articles."
-    },
-    {
-      "author": "paul graham",
-      "url": "http://paulgraham.com/",
-      "archiveLink": "",
-      "siteName": "paul graham",
-      "siteDescription": "simple looking website with a heap of content. some really interesting essays amongst a bunch of other stuff."
-    }
-  ],
-  "coolSites": [
+  "usefulSites": [
     {
       "url": "https://news.ycombinator.com/",
       "siteName": "hacker news",
@@ -304,12 +33,49 @@
     {
       "url": "https://fandom.com",
       "siteName": "fandom",
-      "siteDescription": "huge database of pop culture."
+      "siteDescription": "huge database of pop culture. large user generated wikis."
     },
     {
       "url": "https://abookapart.com/",
       "siteName": "a book apart",
       "siteDescription": "brief books for people who design, write, and code. have been a fan of this crowd ever since first stumbling upon a list apart way back when. these books are fantastic if you're into writing, designing or coding!"
+    }
+  ],
+  "codingSites": [
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Learn",
+      "siteName": "MDN web docs",
+      "siteDescription": "great open source resource to take you from beginner to comfortable in web development. reference this often for my own projects."
+    },
+    {
+      "url": "https://www.internetingishard.com/",
+      "siteName": "interneting is hard",
+      "siteDescription": "friendly web development tutorials for beginners. great resource for current modern practices in web development."
+    },
+    {
+      "url": "https://css-tricks.com/",
+      "siteName": "css tricks",
+      "siteDescription": "a website about building websites and everything in between. great resource full of great tutorials, most likely has an example of something that you want to achieve."
+    },
+    {
+      "url": "https://www.sitepoint.com",
+      "siteName": "sitepoint",
+      "siteDescription": "a mainstay of the web. has existed since 1999 and is full of everything you need for web development."
+    },
+    {
+      "url": "https://11ty.rocks/",
+      "siteName": "11ty rocks!",
+      "siteDescription": "a collection of 11ty starter projects, snippits and other resources to get you up and running with the 11ty static site generator."
+    },
+    {
+      "url": "https://www.netlify.com/",
+      "siteName": "netlify",
+      "siteDescription": "netlify is a cloud hosting service for web apps and static websites. has a great git powered workflow."
+    },
+    {
+      "url": "https://vercel.com",
+      "siteName": "vercel",
+      "siteDescription": "similar to netlify. serverless, cloud hosting platform for web apps."
     }
   ]
 }
