@@ -297,6 +297,54 @@
       "siteDescription": "Geocities is likely a site you’ve heard of. It may even have been a site that you used. It’s origin, and the movement it later inspired, is an incredible story of self-expression and serendipity.",
       "url": "https://thehistoryoftheweb.com/an-ode-to-geocities/",
       "archiveURL": "https://web.archive.org/web/20210512180551/https://thehistoryoftheweb.com/an-ode-to-geocities/"
+    },
+    {
+      "siteName": "Web 0.5",
+      "siteDescription": "A few people have already used Web 0.5 by back-construction from Web 2.0. Sean Coates used it derogatively of MySpace, but this O'Reilly blog post is more positive, suggesting Web 2.0 is a return to earlier Internet applications.",
+      "url": "https://wanderingdanny.com/oxford/2011/02/web-0-5/",
+      "archiveURL": "https://web.archive.org/web/20210301220013/https://wanderingdanny.com/oxford/2011/02/web-0-5/"
+    },
+    {
+      "siteName": "Jurassic Web",
+      "siteDescription": "The Internet of 1996 is almost unrecognizable compared with what we have today.",
+      "url": "https://slate.com/technology/2009/02/the-unrecognizable-internet-of-1996.html",
+      "archiveURL": "https://web.archive.org/web/20210427215424/https://slate.com/technology/2009/02/the-unrecognizable-internet-of-1996.html"
+    },
+    {
+      "siteName": "Yahoo, the Destroyer",
+      "siteDescription": "How the historic company became known as a bumbling villain of internet culture",
+      "url": "https://www.theatlantic.com/technology/archive/2021/04/how-yahoo-became-internet-villain/618681/",
+      "archiveURL": "https://web.archive.org/web/20210624033603/https://www.theatlantic.com/technology/archive/2021/04/how-yahoo-became-internet-villain/618681/"
+    },
+    {
+      "siteName": "You Probably Don’t Remember the Internet",
+      "siteDescription": "How do we memorialize life online when it’s constantly disappearing?",
+      "url": "https://www.theatlantic.com/technology/archive/2021/03/remember-the-internet/618350/",
+      "archiveURL": "https://web.archive.org/web/20210530213244/https://www.theatlantic.com/technology/archive/2021/03/remember-the-internet/618350/"
+    },
+    {
+      "siteName": "How to Make a Website",
+      "siteDescription": "wikiHow embodies an alternative history of the internet, and an interesting possibility for its future.",
+      "url": "https://www.theatlantic.com/technology/archive/2019/11/wikihow-history-founder-jack-herrick-good-internet/601627/",
+      "archiveURL": "https://web.archive.org/web/20210420202205/https://www.theatlantic.com/technology/archive/2019/11/wikihow-history-founder-jack-herrick-good-internet/601627/"
+    },
+    {
+      "siteName": "The People's Web",
+      "siteDescription": "Every day, millions of people rely on independent websites that are mostly created by regular people, weren't designed as mobile apps, connect deeply to culture, and aren't run by the giant tech companies. These are a vision of not just what the web once was, but what it can be again.",
+      "url": "https://anildash.com/2019/12/23/the-peoples-web/",
+      "archiveURL": "p"
+    },
+    {
+      "siteName": "Utopia Is Complicated ",
+      "siteDescription": "The problem with the old internet isn’t that we treat it like the good old days of digital utopia; it’s that we don’t have enough detail about it to properly understand it with the depth and nuance it deserves.",
+      "url": "https://midrange.tedium.co/issues/utopia-is-complicated-637690",
+      "archiveURL": "https://web.archive.org/web/20210531123626/https://midrange.tedium.co/issues/utopia-is-complicated-637690"
+    },
+    {
+      "siteName": "",
+      "siteDescription": "",
+      "url": "",
+      "archiveURL": ""
     }
   ]
 }

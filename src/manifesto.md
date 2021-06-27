@@ -96,4 +96,4 @@ have a read through the archives of my bookmark folders and pocket reading list.
 
 ***
 
-*last updated 2021-06-22*
+*last updated 2021-06-27*
