@@ -2,9 +2,6 @@
 title: my house plants 🍃
 description: my collection of plants
 layout: page
-eleventyNavigation:
-    key: plants
-    order: 600
 permalink:  "{{ page.filePathStem }}.html"
 ---
 
