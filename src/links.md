@@ -25,3 +25,9 @@ collection of websites that i've found useful for hacking away at my various pro
 collection of newsletters that i subscribe to.
 
 {% include "partials/_links_newsletters.njk" %}
+
+## podcasts
+
+if i'm not listening to music, then i'm most likely listening to the latest episode of these podcasts.
+
+{% include "partials/_links_podcasts.njk" %}
