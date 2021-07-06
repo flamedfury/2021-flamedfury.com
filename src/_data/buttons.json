@@ -49,6 +49,16 @@
         "site": "bytemoth's brook",
         "url": "https://bytemoth.neocities.org/",
         "image": "../img/buttonwall/i-brook.png"
+	  },
+    {
+        "site": "lulu in cyberspace",
+        "url": "https://lu.tiny-universes.net/index2.html",
+        "image": "../img/buttonwall/lulu2.gif"
+	  },
+    {
+        "site": "spriteclad",
+        "url": "https://spriteclad.com/",
+        "image": "../img/buttonwall/sc_button_dec2019.gif"
 	  }
 	]
 }
