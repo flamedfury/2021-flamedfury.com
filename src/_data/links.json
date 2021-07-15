@@ -76,6 +76,11 @@
       "url": "https://vercel.com",
       "siteName": "vercel",
       "siteDescription": "similar to netlify. serverless, cloud hosting platform for web apps."
+    },
+    {
+      "url": "https://cssguidelin.es/",
+      "siteName": "css guidelines",
+      "siteDescription": "high level advice and guidelines for writing sane, manageable, scalable CSS. if you're like me, you tend to have hacked together your CSS file with snippits from all over the place. "
     }
   ],
   "newsLetters": [
