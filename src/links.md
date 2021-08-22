@@ -8,7 +8,7 @@ eleventyNavigation:
 permalink:  "{{ page.filePathStem }}.html"
 ---
 
-I love surfing the web, these are some of my favourite links. You can also head over to my [Button Wall](buttonwall.html) to check out a selection of friends that I've made along the way in rebuilding this homepage.
+I love surfing the web, these are some of my favourite links. You can also head over to my [Button Wall](buttonwall.html) to check out a selection of fun hopmepages that I've come across along the way while rebuilding this homepage.
 
 ## cool sites
 collection of websites that i find useful for my various interests.
