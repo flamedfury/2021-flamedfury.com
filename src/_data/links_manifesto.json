@@ -1,20 +1,20 @@
 {
 	  "manifestoSites": [
     {
-      "siteName": "ten commandments of the small internet",
-      "siteDescription": "a grassroots internet movement called \"the small Internet\" is afoot. here are ten commandments that cheapskates would like to see largely obeyed on the small internet.",
+      "siteName": "Ten Commandments of the Small Internet",
+      "siteDescription": "A grassroots internet movement called \"the small Internet\" is afoot. Here are ten commandments that cheapskates would like to see largely obeyed on the small Internet.",
       "url": "https://cheapskatesguide.org/articles/small-internet.html",
       "archiveURL": "https://web.archive.org/web/20201224221219/https://cheapskatesguide.org/articles/small-internet.html"
     },
     {
-      "siteName": "i miss the old internet",
+      "siteName": "I Miss the Old Internet",
       "siteDescription": " \"I miss the internet of the early 1990's.\" ",
       "url": "http://misc-stuff.terraaeon.com/articles/miss-old-internet.html",
       "archiveURL": "https://web.archive.org/web/20201101102647/http://misc-stuff.terraaeon.com/articles/miss-old-internet.html"
     },
     {
-      "siteName": "what i learned about the internet by creating my own website",
-      "siteDescription": "here are some things cheapskates learned about the internet by creating their own website.",
+      "siteName": "What I Learned about the Internet by Creating My Own Website",
+      "siteDescription": "Here are some things Cheapskates learned about the Internet by creating their own website.",
       "url": "https://cheapskatesguide.org/articles/what-i-learned-about-the-internet.html",
       "archiveURL": "https://web.archive.org/web/20210520202453/https://cheapskatesguide.org/articles/what-i-learned-about-the-internet.html"
     },
@@ -25,8 +25,8 @@
       "archiveURL": "https://web.archive.org/web/20210530075325/https://sadgrl.online/newoldweb/manifesto_full.html"
     },
     {
-      "siteName": "nostalgia is bullshit",
-      "siteDescription": "web 1.0 design nostalgia. like all nostalgia, it's bullshit.",
+      "siteName": "Nostalgia is Bullshit",
+      "siteDescription": "Web 1.0 design nostalgia. Like all nostalgia, it's bullshit.",
       "url": "https://september.city/nostalgia/index.html",
       "archiveURL": "https://web.archive.org/web/20210530080647/https://september.city/nostalgia/index.html"
     },
@@ -37,26 +37,26 @@
       "archiveURL": "https://web.archive.org/web/20210520202437/https://cheapskatesguide.org/articles/why-have-a-personal-website.html"
     },
     {
-      "siteName": "the return of the 90s web",
-      "siteDescription": "in big cultural concepts like music or fashion, things have a way of coming around full circle. ",
+      "siteName": "The Return of the 90s Web",
+      "siteDescription": "In big cultural concepts like music or fashion, things have a way of coming around full circle.",
       "url": "https://mxb.dev/blog/the-return-of-the-90s-web/",
       "archiveURL": "https://web.archive.org/web/20210517233025/https://mxb.dev/blog/the-return-of-the-90s-web/"
     },
     {
-      "siteName": "making the web fun again",
-      "siteDescription": " \"ever since I visited my first web site (via a slow modem to a library BBS running a text-based web browser), i have been ceaselessly pondering the nature of the web.\" ",
+      "siteName": "Making the Web Fun Again",
+      "siteDescription": " \"Ever since I visited my first web site (via a slow modem to a library BBS running a text-based web browser), I have been ceaselessly pondering the nature of the web.\" ",
       "url": "https://blog.neocities.org/blog/2013/05/28/making-the-web-fun-again.html",
       "archiveURL": "https://web.archive.org/web/20210527011313/https://blog.neocities.org/blog/2013/05/28/making-the-web-fun-again.html"
     },
     {
-      "siteName": "the missing hit and the open web",
-      "siteDescription": "if it doesn't appear in google's search results, does it really exist?",
+      "siteName": "The Missing Hit and the Open Web",
+      "siteDescription": "If it doesn't appear in Google's search results, does it really exist?",
       "url": "https://blog.jim-nielsen.com/2020/the-missing-hit-and-the-open-web/",
       "archiveURL": "https://web.archive.org/web/20210120165010/https://blog.jim-nielsen.com/2020/the-missing-hit-and-the-open-web/"
     },
     {
-      "siteName": "underscores, optimization & arms races",
-      "siteDescription": "a dozen years ago, the web started to reshape itself around major companies like google. we can understand the genesis of today’s algorithmic arms race against the tech titans just by looking at a single character.",
+      "siteName": "Underscores, Optimization & Arms Races",
+      "siteDescription": "A dozen years ago, the web started to reshape itself around major companies like google. We can understand the genesis of today’s algorithmic arms race against the tech titans just by looking at a single character.",
       "url": "https://anildash.com/2017/11/29/underscores-optimization-arms-races/",
       "archiveURL": "https://web.archive.org/web/20210128094407/https://anildash.com/2017/11/29/underscores-optimization-arms-races/"
     },
@@ -67,31 +67,31 @@
       "archiveURL": "https://web.archive.org/web/20210123045953/https://omarabid.com/the-modern-web"
     },
     {
-      "siteName": "autonomy online: a case for the indieweb",
+      "siteName": "Autonomy Online: A Case For The IndieWeb",
       "siteDescription": "there is an alternative to corporate bubbles online — it’s called the indieweb. build your own personal websites, control your online presence, and learn on your own terms.",
       "url": "https://www.smashingmagazine.com/2020/08/autonomy-online-indieweb/",
       "archiveURL": "https://web.archive.org/web/20210515195800/https://www.smashingmagazine.com/2020/08/autonomy-online-indieweb/"
     },
     {
-      "siteName": "a simpler web",
+      "siteName": "A Simpler Web",
       "siteDescription": " \"i prefer websites that are built with simple html, minimal css, and no javascript for read-only web experiences.\" ",
       "url": "https://sawv.org/2017/07/12/a-simpler-web.html",
       "archiveURL": "https://web.archive.org/web/20210530082627/https://sawv.org/2017/07/12/a-simpler-web.html"
     },
     {
-      "siteName": "hunting the nearly-invisible personal website",
-      "siteDescription": "the personal website is a somewhat mysterious animal that lives mostly unobserved in the jungle of the internet",
+      "siteName": "Hunting the Nearly-Invisible Personal Website",
+      "siteDescription": "The personal website is a somewhat mysterious animal that lives mostly unobserved in the jungle of the Internet",
       "url": "https://cheapskatesguide.org/articles/personal-website-hunting.html",
       "archiveURL": "https://web.archive.org/web/20210520202502/https://cheapskatesguide.org/articles/personal-website-hunting.html"
     },
     {
-      "siteName": "zeronet and the future of the internet",
+      "siteName": "ZeroNet and the Future of the Internet",
       "siteDescription": "until recently, the conventional wisdom was that the internet is beyond the control of governments. how naive the conventional wisdom sometimes is. ",
       "url": "https://cheapskatesguide.org/articles/zeronet.html",
       "archiveURL": "https://web.archive.org/web/20210224002113/https://cheapskatesguide.org/articles/zeronet.html"
     },
     {
-      "siteName": "tell hn: i miss the old internet",
+      "siteName": "Tell HN: I miss the old internet",
       "siteDescription": " \"this is more of a rant i guess. hackernews provides a text box, that's close enough for me.\" ",
       "url": "https://news.ycombinator.com/item?id=17334552",
       "archiveURL": "https://web.archive.org/web/20201109031049/https://news.ycombinator.com/item?id=17334552"
@@ -339,6 +339,66 @@
       "siteDescription": "The problem with the old internet isn’t that we treat it like the good old days of digital utopia; it’s that we don’t have enough detail about it to properly understand it with the depth and nuance it deserves.",
       "url": "https://midrange.tedium.co/issues/utopia-is-complicated-637690",
       "archiveURL": "https://web.archive.org/web/20210531123626/https://midrange.tedium.co/issues/utopia-is-complicated-637690"
+    },
+    {
+      "siteName": "Letting Go of the Old Web",
+      "siteDescription": "Page no longer live, points to archive link. Dezzie asks herself, what makes us creative. What gets us to build a website? What the hell is a website today? Not the web community, or tech industry. She means humankind...",
+      "url": "https://web.archive.org/web/20210116055503/https://dezz.ie/web-history/letting-go-of-the-old-web/",
+      "archiveURL": "https://web.archive.org/web/20210116055503/https://dezz.ie/web-history/letting-go-of-the-old-web/"
+    },
+    {
+      "siteName": "Everyone Should Have Access to the Web",
+      "siteDescription": "The World Wide Web Foundation began as a way to bring the web to everyone. In these trying times, it is needed more than ever.",
+      "url": "https://thehistoryoftheweb.com/world-wide-web-foundation-and-africa/",
+      "archiveURL": ""
+    },
+    {
+      "siteName": "When the Web Was Weird",
+      "siteDescription": "In the late ‘90s, an obscure site called Superbad pioneered jarringly bizarre, often ugly, but occasionally beautiful web design. It’s taken all this time for the rest of the internet to catch up. ",
+      "url": "https://www.popularmechanics.com/culture/web/a29643491/weird-web-design-evolution/",
+      "archiveURL": "https://web.archive.org/web/20210512234857/https://www.popularmechanics.com/culture/web/a29643491/weird-web-design-evolution/"
+    },
+    {
+      "siteName": " A Love Letter to Net.Art ",
+      "siteDescription": "Jay Hoffmann, an Internet historian looks into the creative asthetic of net art",
+      "url": "https://thehistoryoftheweb.com/net-art/",
+      "archiveURL": "https://web.archive.org/web/20210810211133/https://thehistoryoftheweb.com/net-art/"
+    },
+    {
+      "siteName": "Exit Feeds, Enter Community",
+      "siteDescription": "Author explores how to take control of what you absorb on the Internet and the endless drivel of social media.",
+      "url": "https://ianvanagas.com/2020/11/24/exit-feeds-enter-community",
+      "archiveURL": "https://web.archive.org/web/20210301071542/https://ianvanagas.com/2020/11/24/exit-feeds-enter-community/"
+    },
+    {
+      "siteName": "Make your own independent website",
+      "siteDescription": "Victoria remembers the web that she grew up on and puts out the call to make 2021 the year of the independent web.",
+      "url": "https://victoria.dev/blog/make-your-own-independent-website/",
+      "archiveURL": "https://web.archive.org/web/20210812154447/https://victoria.dev/blog/make-your-own-independent-website/"
+    },
+    {
+      "siteName": "The Organic Web",
+      "siteDescription": "Jim explores that on the web why we're obsessed over growing communities, growing out brands, but not making websites...",
+      "url": "https://blog.jim-nielsen.com/2020/the-organic-web/",
+      "archiveURL": "https://web.archive.org/web/20210618213217/https://blog.jim-nielsen.com/2020/the-organic-web/"
+    },
+    {
+      "siteName": "This used to be our playground ",
+      "siteDescription": "There was a time when owning digital space seemed thrilling, and our personal sites motivated us to express ourselves. There are signs of a resurgence, but too few wish to make their digital house a home.",
+      "url": "https://colly.com/articles/this-used-to-be-our-playground",
+      "archiveURL": "https://web.archive.org/web/20210428010122/https://colly.com/articles/this-used-to-be-our-playground"
+    },
+    {
+      "siteName": "How to bring back the old internet",
+      "siteDescription": "Bit of a long read where the author remembers internet forums and how they moderate themselves, and the difference between monstorous platforms like facebook and their refusual to moderate content on that platform.",
+      "url": "https://theweek.com/articles/955798/how-bring-back-old-internet?utm_source=pocket_mylist",
+      "archiveURL": "https://web.archive.org/web/20210829220319/https://theweek.com/articles/955798/how-bring-back-old-internet"
+    },
+    {
+      "siteName": "How the Blog Broke the Web",
+      "siteDescription": "Amy, the author remembers what surfing the web used to be like in the 90s.",
+      "url": "https://stackingthebricks.com/how-blogs-broke-the-web/",
+      "archiveURL": "https://web.archive.org/web/20210814050839/https://stackingthebricks.com/how-blogs-broke-the-web/"
     },
     {
       "siteName": "",
