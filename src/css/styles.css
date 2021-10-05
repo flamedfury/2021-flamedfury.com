@@ -303,6 +303,20 @@ hr {
   margin-right: auto;
 }
 
+.book-title-overlay {
+  position: relative;
+  text-align: center;
+  color: white;
+  width: 150px;
+}
+
+.book-title-overlay-text {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
 /* desktop */
 @media screen and (min-width: 1000px) {
   .webring-container {
