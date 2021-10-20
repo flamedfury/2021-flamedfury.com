@@ -19,7 +19,7 @@ i chose [neocities](https://neocities.org) as my homepage host to step away from
 
 i love the internet, [but not all things about the internet](manifesto.html), you can read more over on my [about page](about.html). if you want to dive deeper, check out [my memoirs](memoirs.html) which detail my earliet memories of getting online and surfing the web and my [web manifesto](manifesto.html) where i share  my thoughts on the web.
 
-if you've enjoyed your time here, please leave a message in [my guestbook](https://guestbook.flamedfury.com).
+if you've enjoyed your time here, please leave a message in [my guestbook](https://guestbook.flamedfury.com), or send me an [e-mail](mailto:flamed@flamedfury.com).
 
 ---
 

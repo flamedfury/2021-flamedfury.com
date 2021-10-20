@@ -7,14 +7,14 @@
 {% if item.thumbnail %}
 <div class="cell">
 <a href="https://oku.club/book/{{ item.slug }}">
-<img src="{{ item.thumbnail }}" alt="book cover for {{ item.title }} by {{ item.authors[0]['name'] }}" class="responsive-image" height="auto" width="150px">
+<img src="{{ item.thumbnail }}" alt="book cover for {{ item.title }} by {{ item.authors[0]['name'] }}" class="responsive-image" width="150px" height="auto">
 </a>
 </div>
 {% else %}
 <div class="cell">
 <div class="book-title-overlay">
 <a href="https://oku.club/book/{{ item.slug }}">
-<img src="../img/bookshelf/generic-cover.png" alt="book cover for {{ item.title }} by {{ item.authors[0]['name'] }}" class="responsive-image" height="auto" width="150px">
+<img src="../img/bookshelf/generic-cover.png" alt="book cover for {{ item.title }} by {{ item.authors[0]['name'] }}" class="responsive-image" width="150px" height="auto">
 <div class="book-title-overlay-text">{{ item.title }}</div>
 </a>
 </div>
