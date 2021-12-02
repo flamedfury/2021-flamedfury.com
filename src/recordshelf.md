@@ -36,15 +36,6 @@ these are the albums that have impacted me in one way or another throughout my l
 
 ***
 
-## fan pages
-
-check out my mini fan pages.
-
-- [it's dark and hell is hot](/recordshelf/dmx.html)
-- [nothing breaks like a heart](/src/recordshelf/miley.html)
-
-***
-
 ## check out my recently played tracks
 
 it's not often that i'm not listening to music while out and about doing or doing chores around the house. here's a list of tracks i've had playing.
